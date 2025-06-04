@@ -1,0 +1,268 @@
+[2025-06-03T09:10:13.581Z] [CORE] 🔁 Starting new loop cycle...
+[2025-06-03T09:10:13.584Z] [CORE] ❌ Loop error: scrapeTokens is not a function
+[2025-06-03T09:10:23.587Z] [CORE] 🔁 Starting new loop cycle...
+[2025-06-03T09:10:23.588Z] [CORE] ❌ Loop error: scrapeTokens is not a function
+[2025-06-03T09:10:33.596Z] [CORE] 🔁 Starting new loop cycle...
+[2025-06-03T09:10:33.598Z] [CORE] ❌ Loop error: scrapeTokens is not a function
+[2025-06-03T09:11:25.151Z] [CORE] 🔁 Starting new loop cycle...
+[2025-06-03T09:11:25.153Z] [CORE] ❌ Loop error: scrapeTokens is not defined
+[2025-06-03T09:12:16.257Z] [CORE] 🔁 Starting new loop cycle...
+[2025-06-03T09:12:46.902Z] [SCRAPER] ✅ Loaded Pump.fun Advanced page
+[2025-06-03T09:12:46.902Z] [CORE] ✅ Scrape complete
+[2025-06-03T09:12:46.903Z] [TRACKER] ✅ Tracker started
+[2025-06-03T09:12:51.720Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump
+[2025-06-03T09:13:48.408Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T09:13:48.409Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T09:14:09.780Z] [PUMPFUN] ❌ Failed to scrape EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump: Navigation timeout of 60000 ms exceeded
+[2025-06-03T09:14:11.889Z] [TRACKER] ⚠️ Skipping EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump - invalid price
+[2025-06-03T09:14:14.659Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR
+[2025-06-03T09:14:34.835Z] [PUMPFUN] ⚠️ Modal skip failed for FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T09:14:45.397Z] [TRACKER] 💾 Watchlist saved
+[2025-06-03T09:14:48.599Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump
+[2025-06-03T09:14:49.387Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T09:14:49.388Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T09:15:37.170Z] [PUMPFUN] ⚠️ Modal skip failed for 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T09:15:49.191Z] [TRACKER] 💾 Watchlist saved
+[2025-06-03T09:15:49.191Z] [CORE] ✅ Tracker pass complete
+[2025-06-03T09:15:49.219Z] [CORE] 📉 No gainers found this cycle.
+[2025-06-03T09:15:49.219Z] [CORE] ⏱ Sleeping for 60 seconds...
+[2025-06-03T09:16:01.744Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T09:16:01.745Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:25:26.240Z] [CORE] 🔁 Starting new loop cycle...
+[2025-06-03T12:26:01.479Z] [CORE] ❌ Loop error: Timed out after 30000 ms while waiting for the WS endpoint URL to appear in stdout!
+[2025-06-03T12:39:24.904Z] [SCRAPER] ✅ Loaded Pump.fun Advanced page
+[2025-06-03T12:40:26.133Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:40:26.133Z] [SCRAPER] 🆕 Tracking new token: PFSAM | MC: $2400 | Vol: $2400
+[2025-06-03T12:40:26.503Z] [SCRAPER] 🆕 Tracking new token: rawdog | MC: $480 | Vol: $480
+[2025-06-03T12:40:26.505Z] [SCRAPER] 🆕 Tracking new token: Andromeda | MC: $571 | Vol: $571
+[2025-06-03T12:40:29.860Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:41:24.960Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:41:24.959Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:42:25.015Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:42:25.015Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:43:24.968Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:43:24.969Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:44:25.012Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:44:25.013Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:45:24.996Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:45:24.996Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:46:25.113Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:46:25.113Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:47:25.097Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:47:25.098Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:48:25.508Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:48:25.508Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:49:28.667Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:49:28.668Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:50:29.984Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:50:29.984Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:51:25.099Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:51:25.099Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:52:25.150Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:52:25.151Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:53:25.187Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:53:25.187Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:54:25.205Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:54:25.205Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:55:25.131Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:55:25.131Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:56:25.154Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:56:25.154Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:57:25.143Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:57:25.143Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:58:25.135Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:58:25.136Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:59:25.133Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:59:25.134Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:00:25.253Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T13:00:25.263Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:01:25.228Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T13:01:25.229Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:02:25.585Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T13:02:25.585Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:03:49.274Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T13:03:49.274Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:04:25.433Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:04:25.433Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T13:05:25.659Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T13:05:25.659Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:06:25.891Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T13:06:25.892Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:07:25.440Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:07:25.440Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T13:08:25.405Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T13:08:25.405Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:09:25.434Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T13:09:25.435Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:10:25.501Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T13:10:25.501Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:11:25.551Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:11:25.550Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T13:12:26.154Z] [SCRAPER] 🧪 Scraped 21 tokens
+[2025-06-03T13:12:26.155Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:13:25.674Z] [SCRAPER] 🧪 Scraped 21 tokens
+[2025-06-03T13:13:25.674Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:14:25.503Z] [SCRAPER] 🧪 Scraped 21 tokens
+[2025-06-03T13:14:25.503Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:15:26.503Z] [SCRAPER] 🧪 Scraped 21 tokens
+[2025-06-03T13:15:26.504Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:16:28.658Z] [SCRAPER] 🧪 Scraped 21 tokens
+[2025-06-03T13:16:28.660Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:17:25.694Z] [SCRAPER] 🧪 Scraped 21 tokens
+[2025-06-03T13:17:25.695Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:18:25.658Z] [SCRAPER] 🧪 Scraped 21 tokens
+[2025-06-03T13:18:25.659Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:19:26.400Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:19:26.400Z] [SCRAPER] 🧪 Scraped 21 tokens
+[2025-06-03T14:22:29.283Z] [CORE] 🚀 Starting scraper loop...
+[2025-06-03T14:22:29.285Z] [CORE] 🔁 Starting new scraping cycle...
+[2025-06-03T14:22:29.286Z] [SCRAPER] 🚀 Scraper loop started
+[2025-06-03T14:23:01.600Z] [SCRAPER] ✅ Loaded Pump.fun Advanced page
+[2025-06-03T14:23:01.600Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:23:01.682Z] [SCRAPER] 🧪 Scraped 0 tokens
+[2025-06-03T14:23:01.682Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:24:01.698Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:24:01.728Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:24:01.729Z] [SCRAPER] 🆕 Tracking new token: DOCSALT | MC: $1700 | Vol: $1700
+[2025-06-03T14:24:01.729Z] [SCRAPER] ❌ Error in scraper loop: getPrice is not defined
+[2025-06-03T14:24:31.742Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:24:31.764Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:24:31.764Z] [SCRAPER] 🆕 Tracking new token: cAT | MC: $339 | Vol: $339
+[2025-06-03T14:24:31.765Z] [SCRAPER] ❌ Error in scraper loop: getPrice is not defined
+[2025-06-03T14:25:01.774Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:25:01.825Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:25:01.825Z] [SCRAPER] 🆕 Tracking new token: GCT | MC: $0 | Vol: $0
+[2025-06-03T14:25:01.825Z] [SCRAPER] ❌ Error in scraper loop: getPrice is not defined
+[2025-06-03T14:25:31.829Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:25:31.947Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:25:31.948Z] [SCRAPER] 🆕 Tracking new token: ED | MC: $250 | Vol: $250
+[2025-06-03T14:25:31.948Z] [SCRAPER] ❌ Error in scraper loop: getPrice is not defined
+[2025-06-03T14:26:01.954Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:26:02.289Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:26:02.291Z] [SCRAPER] ❌ Error in scraper loop: getPrice is not defined
+[2025-06-03T14:26:02.290Z] [SCRAPER] 🆕 Tracking new token: kev | MC: $2700 | Vol: $2700
+[2025-06-03T14:26:32.311Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:26:32.324Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:26:32.324Z] [SCRAPER] 🆕 Tracking new token: Houdini | MC: $2200 | Vol: $2200
+[2025-06-03T14:26:32.324Z] [SCRAPER] ❌ Error in scraper loop: getPrice is not defined
+[2025-06-03T14:27:02.335Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:27:02.405Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:27:02.405Z] [SCRAPER] 🆕 Tracking new token: buyden | MC: $570 | Vol: $570
+[2025-06-03T14:27:02.406Z] [SCRAPER] ❌ Error in scraper loop: getPrice is not defined
+[2025-06-03T14:30:48.311Z] [CORE] 🚀 Starting scraper loop...
+[2025-06-03T14:30:48.313Z] [CORE] 🔁 Starting new scraping cycle...
+[2025-06-03T14:30:48.314Z] [SCRAPER] 🚀 Scraper loop started
+[2025-06-03T14:31:32.027Z] [SCRAPER] ✅ Loaded Pump.fun Advanced page
+[2025-06-03T14:31:32.027Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:31:36.410Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:31:36.410Z] [SCRAPER] 🧪 Scraped 0 tokens
+[2025-06-03T14:32:36.433Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:32:36.543Z] [SCRAPER] 🆕 Tracking new token: Xsexual | MC: $532 | Vol: $532
+[2025-06-03T14:32:36.542Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:32:36.621Z] [SCRAPER] 🆕 Tracking new token: USDT | MC: $434 | Vol: $434
+[2025-06-03T14:32:36.623Z] [SCRAPER] 🆕 Tracking new token: THE LINZ | MC: $1300 | Vol: $1300
+[2025-06-03T14:32:36.624Z] [SCRAPER] 🆕 Tracking new token: X/X | MC: $2900 | Vol: $2900
+[2025-06-03T14:32:36.627Z] [SCRAPER] 🆕 Tracking new token: moo-ner | MC: $2500 | Vol: $2500
+[2025-06-03T14:32:36.629Z] [SCRAPER] 🆕 Tracking new token: Ghibli | MC: $12800 | Vol: $12800
+[2025-06-03T14:32:36.635Z] [SCRAPER] 🆕 Tracking new token: Rock | MC: $12600 | Vol: $12600
+[2025-06-03T14:32:36.638Z] [SCRAPER] 🆕 Tracking new token: Mochi | MC: $10300 | Vol: $10300
+[2025-06-03T14:32:36.639Z] [SCRAPER] 🆕 Tracking new token: CO | MC: $13400 | Vol: $13400
+[2025-06-03T14:32:36.641Z] [SCRAPER] 🆕 Tracking new token: USNDC | MC: $169700 | Vol: $169700
+[2025-06-03T14:32:36.644Z] [SCRAPER] 🆕 Tracking new token: HOOD | MC: $40500 | Vol: $40500
+[2025-06-03T14:32:36.645Z] [SCRAPER] 🆕 Tracking new token: path | MC: $186300 | Vol: $186300
+[2025-06-03T14:32:36.648Z] [SCRAPER] 🆕 Tracking new token: DOGE Cycle | MC: $366700 | Vol: $366700
+[2025-06-03T14:32:36.632Z] [SCRAPER] 🆕 Tracking new token: TRUMP | MC: $12400 | Vol: $12400
+[2025-06-03T14:32:36.650Z] [SCRAPER] 🆕 Tracking new token: SWEATER | MC: $67900 | Vol: $67900
+[2025-06-03T14:32:36.651Z] [SCRAPER] 🆕 Tracking new token: GWH | MC: $866 | Vol: $866
+[2025-06-03T14:32:36.653Z] [SCRAPER] 🆕 Tracking new token: PHCT | MC: $1500 | Vol: $1500
+[2025-06-03T14:32:36.654Z] [SCRAPER] 🆕 Tracking new token: LGBT | MC: $3300 | Vol: $3300
+[2025-06-03T14:32:36.655Z] [SCRAPER] 🆕 Tracking new token: Hopsalot | MC: $72200 | Vol: $72200
+[2025-06-03T14:32:36.692Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:32:36.661Z] [SCRAPER] 🆕 Tracking new token: turt | MC: $3900 | Vol: $3900
+[2025-06-03T14:33:36.700Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:33:36.719Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:33:36.720Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:34:36.720Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:34:36.751Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:34:36.751Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:35:36.754Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:35:36.852Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:35:36.853Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:36:36.868Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:36:36.917Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:36:36.916Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:37:36.917Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:37:36.957Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:37:36.957Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:38:36.966Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:38:37.021Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:38:37.021Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:39:37.022Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:39:37.054Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:39:37.055Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:40:37.060Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:40:37.122Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:40:37.122Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:41:37.129Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:41:37.608Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:41:37.608Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:42:37.734Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:42:38.273Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:42:38.274Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:43:38.330Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:43:38.675Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:43:38.676Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:44:38.704Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:44:38.758Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:44:38.759Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:45:41.861Z] [CORE] 🚀 Starting scraper loop...
+[2025-06-03T14:45:41.864Z] [CORE] 🔁 Starting new scraping cycle...
+[2025-06-03T14:45:41.865Z] [SCRAPER] 🚀 Scraper loop started
+[2025-06-03T14:46:38.912Z] [SCRAPER] ✅ Loaded Pump.fun Advanced page
+[2025-06-03T14:46:38.913Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:46:40.124Z] [SCRAPER] 🧪 Scraped 0 tokens
+[2025-06-03T14:46:40.124Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:47:40.139Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:47:40.427Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:47:40.427Z] [SCRAPER] 🆕 Tracking new token: MUSK | MC: $1700 | Vol: $1700
+[2025-06-03T14:47:40.651Z] [SCRAPER] 🆕 Tracking new token: RDM | MC: $673 | Vol: $673
+[2025-06-03T14:47:40.638Z] [SCRAPER] 🆕 Tracking new token: crypto | MC: $663 | Vol: $663
+[2025-06-03T14:47:40.664Z] [SCRAPER] 🆕 Tracking new token: TPG | MC: $104300 | Vol: $104300
+[2025-06-03T14:47:40.656Z] [SCRAPER] 🆕 Tracking new token: sadcat | MC: $2100 | Vol: $2100
+[2025-06-03T14:47:40.669Z] [SCRAPER] 🆕 Tracking new token: EggDay | MC: $700700 | Vol: $700700
+[2025-06-03T14:47:40.671Z] [SCRAPER] 🆕 Tracking new token: PREGOWIFE | MC: $146300 | Vol: $146300
+[2025-06-03T14:47:40.673Z] [SCRAPER] 🆕 Tracking new token: PODGE | MC: $8300 | Vol: $8300
+[2025-06-03T14:47:40.674Z] [SCRAPER] 🆕 Tracking new token: PERRY | MC: $35700 | Vol: $35700
+[2025-06-03T14:47:40.676Z] [SCRAPER] 🆕 Tracking new token: Bon | MC: $41100 | Vol: $41100
+[2025-06-03T14:47:40.666Z] [SCRAPER] 🆕 Tracking new token: Satoeshi | MC: $285000 | Vol: $285000
+[2025-06-03T14:47:40.677Z] [SCRAPER] 🆕 Tracking new token: Shu | MC: $3800 | Vol: $3800
+[2025-06-03T14:47:40.680Z] [SCRAPER] 🆕 Tracking new token: shytoshi | MC: $12200 | Vol: $12200
+[2025-06-03T14:47:40.681Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:47:40.429Z] [SCRAPER] 🆕 Tracking new token: KITSN | MC: $231 | Vol: $231
+[2025-06-03T14:48:40.686Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:48:40.742Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:48:40.742Z] [SCRAPER] 🆕 Tracking new token: Wynner | MC: $393 | Vol: $393
+[2025-06-03T14:48:40.774Z] [SCRAPER] 🆕 Tracking new token: Rocket | MC: $1000 | Vol: $1000
+[2025-06-03T14:48:40.779Z] [SCRAPER] 🆕 Tracking new token: ZENAI | MC: $70700 | Vol: $70700
+[2025-06-03T14:48:40.775Z] [SCRAPER] 🆕 Tracking new token: fuck | MC: $121 | Vol: $121
+[2025-06-03T14:48:40.777Z] [SCRAPER] 🆕 Tracking new token: LUCK | MC: $1500 | Vol: $1500
+[2025-06-03T14:48:40.778Z] [SCRAPER] 🆕 Tracking new token: PFSAM | MC: $1800 | Vol: $1800
+[2025-06-03T14:48:40.795Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:49:40.810Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:49:40.831Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:49:40.831Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:50:40.843Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:50:41.059Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:50:41.060Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:51:41.074Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:51:41.341Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:51:41.342Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:52:41.400Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:52:41.678Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:52:41.678Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:53:41.683Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:53:41.709Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:53:41.710Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:54:41.711Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:54:41.798Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:54:41.798Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...

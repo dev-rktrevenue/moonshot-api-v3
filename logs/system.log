@@ -1,0 +1,1173 @@
+[2025-06-02T15:21:06.169Z] [SCRAPER] ✅ Loaded Pump.fun Advanced page
+[2025-06-02T15:22:06.573Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-02T15:22:06.574Z] [SCRAPER] 🆕 Tracking new token: UNLUST | MC: $306 | Vol: $306
+[2025-06-02T15:22:06.604Z] [SCRAPER] 🆕 Tracking new token: POV | MC: $503 | Vol: $503
+[2025-06-02T15:23:06.216Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-02T15:24:06.237Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-02T15:25:06.210Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-02T15:25:57.833Z] [TRACKER] ✅ Tracker started
+[2025-06-02T15:26:27.842Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T15:26:51.962Z] [PUMPFUN] ⚠️ Modal skip failed for 8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T15:26:55.226Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004272
+[2025-06-02T15:26:55.226Z] [TRACKER] 📈 UNLUST history length: 1
+[2025-06-02T15:26:55.227Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T15:26:57.862Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T15:27:10.350Z] [PUMPFUN] ⚠️ Modal skip failed for 8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T15:27:15.574Z] [TRACKER] 📈 UNLUST history length: 2
+[2025-06-02T15:27:15.575Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004272
+[2025-06-02T15:27:15.660Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T15:27:22.562Z] [PUMPFUN] ⚠️ Modal skip failed for 6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T15:27:26.274Z] [PUMPFUN] ⚠️ Modal skip failed for 6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T15:27:27.930Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T15:27:29.066Z] [TRACKER] 📈 POV history length: 1
+[2025-06-02T15:27:29.066Z] [TRACKER] ✅ POV updated - Price: 0.000004544
+[2025-06-02T15:27:29.066Z] [TRACKER] 📊 About to save 2 tokens
+[2025-06-02T15:27:29.125Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-02T15:27:30.033Z] [TRACKER] 📈 POV history length: 2
+[2025-06-02T15:27:30.033Z] [TRACKER] ✅ POV updated - Price: 0.000004544
+[2025-06-02T15:27:30.033Z] [TRACKER] 📊 About to save 2 tokens
+[2025-06-02T15:27:30.372Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-02T15:27:42.407Z] [TRACKER] 📈 UNLUST history length: 3
+[2025-06-02T15:27:42.407Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004272
+[2025-06-02T15:27:42.436Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T16:16:59.541Z] [TRACKER] ✅ Tracker started
+[2025-06-02T16:17:29.555Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T16:17:59.571Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T16:18:00.132Z] [PUMPFUN] ❌ Failed to scrape 8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu: Timed out after 30000 ms while waiting for the WS endpoint URL to appear in stdout!
+[2025-06-02T16:18:00.133Z] [TRACKER] ⚠️ Skipping 8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu - invalid or missing price
+[2025-06-02T16:18:00.280Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T16:18:29.582Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T16:30:07.870Z] [TRACKER] ✅ Tracker started
+[2025-06-02T16:30:37.884Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T16:31:02.300Z] [TRACKER] 📈 UNLUST history length: 3
+[2025-06-02T16:31:02.305Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004275
+[2025-06-02T16:31:02.309Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T16:31:07.978Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T16:31:16.467Z] [PUMPFUN] ⚠️ Modal skip failed for 6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T16:31:19.471Z] [PUMPFUN] ⚠️ Modal skip failed for 8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T16:31:27.534Z] [TRACKER] 📈 UNLUST history length: 4
+[2025-06-02T16:31:27.534Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004275
+[2025-06-02T16:31:27.535Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T16:43:19.241Z] [TRACKER] ✅ Tracker started
+[2025-06-02T16:43:49.250Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T16:44:19.265Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T16:44:25.692Z] [PUMPFUN] ⚠️ Modal skip failed for 8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T16:44:33.021Z] [PUMPFUN] ⚠️ Modal skip failed for 8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T16:44:37.940Z] [TRACKER] 📈 UNLUST history length: 5
+[2025-06-02T16:44:37.989Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004265
+[2025-06-02T16:44:37.992Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T16:44:38.811Z] [TRACKER] 📈 UNLUST history length: 6
+[2025-06-02T16:44:38.811Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004275
+[2025-06-02T16:44:38.818Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T16:44:49.358Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T16:44:55.099Z] [PUMPFUN] ⚠️ Modal skip failed for 6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T16:45:00.671Z] [PUMPFUN] ⚠️ Modal skip failed for 8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T16:45:03.712Z] [TRACKER] 📈 UNLUST history length: 7
+[2025-06-02T16:45:03.712Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004265
+[2025-06-02T16:45:03.730Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T16:49:26.608Z] [TRACKER] ✅ Tracker started
+[2025-06-02T16:49:56.632Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T16:50:18.858Z] [TRACKER] 📈 UNLUST history length: 8
+[2025-06-02T16:50:18.859Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004265
+[2025-06-02T16:50:18.868Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T16:50:26.748Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T16:50:34.105Z] [PUMPFUN] ⚠️ Modal skip failed for 6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T16:50:39.672Z] [PUMPFUN] ⚠️ Modal skip failed for 8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T16:50:47.136Z] [TRACKER] 📈 UNLUST history length: 9
+[2025-06-02T16:50:47.137Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004265
+[2025-06-02T16:50:47.333Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T16:50:47.754Z] [TRACKER] 📈 POV history length: 5
+[2025-06-02T16:50:47.754Z] [TRACKER] ✅ POV updated - Price: 0.000004265
+[2025-06-02T16:50:47.759Z] [TRACKER] 📊 About to save 2 tokens
+[2025-06-02T16:50:48.039Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-02T16:50:56.672Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T16:50:57.666Z] [PUMPFUN] ⚠️ Modal skip failed for 6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T16:51:07.372Z] [PUMPFUN] ⚠️ Modal skip failed for 8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T16:51:10.456Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004265
+[2025-06-02T16:51:10.456Z] [TRACKER] 📈 UNLUST history length: 10
+[2025-06-02T16:51:10.459Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T16:51:11.116Z] [TRACKER] 📈 POV history length: 6
+[2025-06-02T16:51:11.116Z] [TRACKER] ✅ POV updated - Price: 0.000004265
+[2025-06-02T16:51:11.120Z] [TRACKER] 📊 About to save 2 tokens
+[2025-06-02T16:51:11.194Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-02T16:51:22.255Z] [PUMPFUN] ⚠️ Modal skip failed for 6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T16:51:24.901Z] [TRACKER] 📈 POV history length: 7
+[2025-06-02T16:51:24.901Z] [TRACKER] ✅ POV updated - Price: 0.000004265
+[2025-06-02T16:51:24.903Z] [TRACKER] 📊 About to save 2 tokens
+[2025-06-02T16:51:24.937Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-02T16:51:26.753Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T16:51:40.426Z] [TRACKER] 📈 UNLUST history length: 11
+[2025-06-02T16:51:40.426Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004265
+[2025-06-02T16:51:40.429Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T16:51:52.377Z] [TRACKER] 📈 POV history length: 8
+[2025-06-02T16:51:52.378Z] [TRACKER] ✅ POV updated - Price: 0.000004265
+[2025-06-02T16:51:52.382Z] [TRACKER] 📊 About to save 2 tokens
+[2025-06-02T16:51:52.408Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-02T16:51:56.668Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T16:52:06.127Z] [TRACKER] 📈 UNLUST history length: 12
+[2025-06-02T16:52:06.127Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004265
+[2025-06-02T16:52:06.130Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T16:52:17.323Z] [TRACKER] ✅ POV updated - Price: 0.000004265
+[2025-06-02T16:52:17.322Z] [TRACKER] 📈 POV history length: 9
+[2025-06-02T16:52:17.327Z] [TRACKER] 📊 About to save 2 tokens
+[2025-06-02T16:52:17.352Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-02T16:52:26.679Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T16:52:37.868Z] [TRACKER] 📈 UNLUST history length: 13
+[2025-06-02T16:52:37.869Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004265
+[2025-06-02T16:52:37.880Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T16:52:49.508Z] [TRACKER] 📈 POV history length: 10
+[2025-06-02T16:52:49.509Z] [TRACKER] ✅ POV updated - Price: 0.000004265
+[2025-06-02T16:52:49.513Z] [TRACKER] 📊 About to save 2 tokens
+[2025-06-02T16:52:49.575Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-02T16:52:56.691Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T16:53:06.592Z] [TRACKER] 📈 UNLUST history length: 14
+[2025-06-02T16:53:06.595Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004265
+[2025-06-02T16:53:06.602Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T16:53:18.674Z] [TRACKER] 📈 POV history length: 11
+[2025-06-02T16:53:18.674Z] [TRACKER] ✅ POV updated - Price: 0.000004265
+[2025-06-02T16:53:18.679Z] [TRACKER] 📊 About to save 2 tokens
+[2025-06-02T16:53:18.746Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-02T16:53:26.704Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T16:53:36.348Z] [TRACKER] 📈 UNLUST history length: 15
+[2025-06-02T16:53:36.349Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004265
+[2025-06-02T16:53:36.355Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T16:53:47.653Z] [TRACKER] ✅ POV updated - Price: 0.000004265
+[2025-06-02T16:53:47.653Z] [TRACKER] 📈 POV history length: 12
+[2025-06-02T16:53:47.654Z] [TRACKER] 📊 About to save 2 tokens
+[2025-06-02T16:53:47.664Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-02T16:53:56.721Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T16:54:06.619Z] [TRACKER] 📈 UNLUST history length: 16
+[2025-06-02T16:54:06.619Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004265
+[2025-06-02T16:54:06.625Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T16:54:18.618Z] [TRACKER] 📈 POV history length: 13
+[2025-06-02T16:54:18.619Z] [TRACKER] ✅ POV updated - Price: 0.000004265
+[2025-06-02T16:54:18.623Z] [TRACKER] 📊 About to save 2 tokens
+[2025-06-02T16:54:18.682Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-02T16:54:26.730Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T16:54:36.888Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004265
+[2025-06-02T16:54:36.888Z] [TRACKER] 📈 UNLUST history length: 17
+[2025-06-02T16:54:36.890Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T16:54:47.838Z] [TRACKER] 📈 POV history length: 14
+[2025-06-02T16:54:47.839Z] [TRACKER] ✅ POV updated - Price: 0.000004265
+[2025-06-02T16:54:47.843Z] [TRACKER] 📊 About to save 2 tokens
+[2025-06-02T16:54:47.880Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-02T16:54:56.739Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T16:55:08.882Z] [TRACKER] 📈 UNLUST history length: 18
+[2025-06-02T16:55:08.885Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004265
+[2025-06-02T16:55:08.891Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T16:55:21.420Z] [TRACKER] 📈 POV history length: 15
+[2025-06-02T16:55:21.421Z] [TRACKER] ✅ POV updated - Price: 0.000004265
+[2025-06-02T16:55:21.427Z] [TRACKER] 📊 About to save 2 tokens
+[2025-06-02T16:55:21.499Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-02T16:55:26.738Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T16:55:36.552Z] [PUMPFUN] ⚠️ Modal skip failed for 8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T16:55:39.217Z] [TRACKER] 📈 UNLUST history length: 19
+[2025-06-02T16:55:39.218Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004265
+[2025-06-02T16:55:39.220Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T16:55:54.718Z] [TRACKER] 📈 POV history length: 16
+[2025-06-02T16:55:54.718Z] [TRACKER] ✅ POV updated - Price: 0.000004263
+[2025-06-02T16:55:54.733Z] [TRACKER] 📊 About to save 2 tokens
+[2025-06-02T16:55:54.750Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-02T16:55:56.737Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T16:56:08.273Z] [TRACKER] 📈 UNLUST history length: 20
+[2025-06-02T16:56:08.274Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004264
+[2025-06-02T16:56:08.289Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T16:56:21.187Z] [TRACKER] 📈 POV history length: 17
+[2025-06-02T16:56:21.188Z] [TRACKER] ✅ POV updated - Price: 0.000004263
+[2025-06-02T16:56:21.192Z] [TRACKER] 📊 About to save 2 tokens
+[2025-06-02T16:56:21.214Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-02T16:56:26.759Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T16:56:39.487Z] [TRACKER] 📈 UNLUST history length: 21
+[2025-06-02T16:56:39.487Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004264
+[2025-06-02T16:56:39.489Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T16:56:51.662Z] [TRACKER] 📈 POV history length: 18
+[2025-06-02T16:56:51.663Z] [TRACKER] ✅ POV updated - Price: 0.000004263
+[2025-06-02T16:56:51.664Z] [TRACKER] 📊 About to save 2 tokens
+[2025-06-02T16:56:52.094Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-02T16:56:56.763Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T16:57:08.808Z] [TRACKER] 📈 UNLUST history length: 22
+[2025-06-02T16:57:08.808Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004264
+[2025-06-02T16:57:08.814Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T16:57:20.357Z] [TRACKER] 📈 POV history length: 19
+[2025-06-02T16:57:20.359Z] [TRACKER] ✅ POV updated - Price: 0.000004263
+[2025-06-02T16:57:20.362Z] [TRACKER] 📊 About to save 2 tokens
+[2025-06-02T16:57:20.404Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-02T16:57:26.768Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T16:57:37.817Z] [TRACKER] 📈 UNLUST history length: 23
+[2025-06-02T16:57:37.818Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004264
+[2025-06-02T16:57:37.824Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T16:57:49.897Z] [TRACKER] 📈 POV history length: 20
+[2025-06-02T16:57:49.899Z] [TRACKER] ✅ POV updated - Price: 0.000004263
+[2025-06-02T16:57:49.902Z] [TRACKER] 📊 About to save 2 tokens
+[2025-06-02T16:57:49.947Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-02T16:57:56.783Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T16:58:07.529Z] [TRACKER] 📈 UNLUST history length: 24
+[2025-06-02T16:58:07.530Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004264
+[2025-06-02T16:58:07.536Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T16:58:19.798Z] [TRACKER] 📈 POV history length: 21
+[2025-06-02T16:58:19.799Z] [TRACKER] ✅ POV updated - Price: 0.000004263
+[2025-06-02T16:58:19.803Z] [TRACKER] 📊 About to save 2 tokens
+[2025-06-02T16:58:19.856Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-02T16:58:26.788Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T16:58:40.288Z] [TRACKER] 📈 UNLUST history length: 25
+[2025-06-02T16:58:40.289Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004264
+[2025-06-02T16:58:40.295Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T16:58:52.133Z] [TRACKER] ✅ POV updated - Price: 0.000004263
+[2025-06-02T16:58:52.132Z] [TRACKER] 📈 POV history length: 22
+[2025-06-02T16:58:52.137Z] [TRACKER] 📊 About to save 2 tokens
+[2025-06-02T16:58:52.197Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-02T16:58:56.793Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T16:59:08.743Z] [TRACKER] 📈 UNLUST history length: 26
+[2025-06-02T16:59:08.743Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004264
+[2025-06-02T16:59:08.745Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T16:59:20.808Z] [TRACKER] 📈 POV history length: 23
+[2025-06-02T16:59:20.810Z] [TRACKER] ✅ POV updated - Price: 0.000004263
+[2025-06-02T16:59:20.812Z] [TRACKER] 📊 About to save 2 tokens
+[2025-06-02T16:59:20.825Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-02T16:59:26.811Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T16:59:37.846Z] [TRACKER] 📈 UNLUST history length: 27
+[2025-06-02T16:59:37.847Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004264
+[2025-06-02T16:59:37.850Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T16:59:50.072Z] [TRACKER] ✅ POV updated - Price: 0.000004263
+[2025-06-02T16:59:50.072Z] [TRACKER] 📈 POV history length: 24
+[2025-06-02T16:59:50.096Z] [TRACKER] 📊 About to save 2 tokens
+[2025-06-02T16:59:50.156Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-02T16:59:56.820Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T17:00:07.097Z] [TRACKER] 📈 UNLUST history length: 28
+[2025-06-02T17:00:07.097Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004264
+[2025-06-02T17:00:07.099Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T17:00:17.468Z] [PUMPFUN] ⚠️ Modal skip failed for 6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T17:00:20.227Z] [TRACKER] 📈 POV history length: 25
+[2025-06-02T17:00:20.228Z] [TRACKER] ✅ POV updated - Price: 0.000004263
+[2025-06-02T17:00:20.231Z] [TRACKER] 📊 About to save 2 tokens
+[2025-06-02T17:00:20.245Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-02T17:00:26.824Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8vjSvtSnFj5ebCwH2WZiaowB5V7n6jBbsHbV7YVFfobu
+[2025-06-02T17:00:38.077Z] [TRACKER] 📈 UNLUST history length: 29
+[2025-06-02T17:00:38.078Z] [TRACKER] ✅ UNLUST updated - Price: 0.000004264
+[2025-06-02T17:00:38.080Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/6Z2sgSRhcENJgdVdCBm4T2HJnWto3EHb1EmvYeSRpump
+[2025-06-02T17:03:24.654Z] [SCRAPER] ✅ Loaded Pump.fun Advanced page
+[2025-06-02T17:04:24.791Z] [SCRAPER] 🆕 Tracking new token: send/it | MC: $468 | Vol: $468
+[2025-06-02T17:04:24.790Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-02T17:04:24.835Z] [SCRAPER] 🆕 Tracking new token: YEGO | MC: $352 | Vol: $352
+[2025-06-02T17:04:24.836Z] [SCRAPER] 🆕 Tracking new token: Solabubu | MC: $524 | Vol: $524
+[2025-06-02T17:04:24.837Z] [SCRAPER] 🆕 Tracking new token: MOOK | MC: $1600 | Vol: $1600
+[2025-06-02T17:04:24.838Z] [SCRAPER] 🆕 Tracking new token: LS | MC: $1300 | Vol: $1300
+[2025-06-02T17:04:24.839Z] [SCRAPER] 🆕 Tracking new token: COOOK | MC: $942 | Vol: $942
+[2025-06-02T17:04:24.840Z] [SCRAPER] 🆕 Tracking new token: legowl | MC: $2600 | Vol: $2600
+[2025-06-02T17:05:24.757Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-02T17:05:24.757Z] [SCRAPER] 🆕 Tracking new token: RHM | MC: $2800 | Vol: $2800
+[2025-06-02T17:05:24.759Z] [SCRAPER] 🆕 Tracking new token: Duty | MC: $845 | Vol: $845
+[2025-06-02T17:06:24.692Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-02T17:07:36.513Z] [TRACKER] ✅ Tracker started
+[2025-06-02T17:08:06.529Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump
+[2025-06-02T17:08:28.833Z] [TRACKER] 📈 send/it history length: 1
+[2025-06-02T17:08:28.834Z] [TRACKER] ✅ send/it updated - Price: 0.000004263
+[2025-06-02T17:08:28.836Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump
+[2025-06-02T17:08:36.546Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump
+[2025-06-02T17:08:40.018Z] [PUMPFUN] ⚠️ Modal skip failed for tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T17:08:48.484Z] [PUMPFUN] ⚠️ Modal skip failed for Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T17:08:56.768Z] [TRACKER] 📈 send/it history length: 2
+[2025-06-02T17:08:56.769Z] [TRACKER] ✅ send/it updated - Price: 0.000004263
+[2025-06-02T17:08:56.774Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump
+[2025-06-02T17:08:56.958Z] [TRACKER] 📈 YEGO history length: 1
+[2025-06-02T17:08:56.958Z] [TRACKER] ✅ YEGO updated - Price: 0.000004581
+[2025-06-02T17:08:56.968Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump
+[2025-06-02T17:09:06.595Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump
+[2025-06-02T17:09:14.646Z] [PUMPFUN] ⚠️ Modal skip failed for 8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T17:09:18.062Z] [PUMPFUN] ⚠️ Modal skip failed for Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T17:09:21.320Z] [TRACKER] 📈 send/it history length: 3
+[2025-06-02T17:09:21.320Z] [TRACKER] ✅ send/it updated - Price: 0.000004263
+[2025-06-02T17:09:21.323Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump
+[2025-06-02T17:09:25.208Z] [TRACKER] 📈 Solabubu history length: 1
+[2025-06-02T17:09:25.208Z] [TRACKER] ✅ Solabubu updated - Price: 0.000004263
+[2025-06-02T17:09:25.295Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/GnXaMB8CtUZXmFaxL1N1wuE1umskjvxBYKruPRMWpump
+[2025-06-02T17:09:32.097Z] [PUMPFUN] ⚠️ Modal skip failed for tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T17:09:36.434Z] [PUMPFUN] ⚠️ Modal skip failed for GnXaMB8CtUZXmFaxL1N1wuE1umskjvxBYKruPRMWpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T17:09:36.550Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump
+[2025-06-02T17:09:39.350Z] [TRACKER] 📈 YEGO history length: 2
+[2025-06-02T17:09:39.350Z] [TRACKER] ✅ YEGO updated - Price: 0.000004581
+[2025-06-02T17:09:39.354Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump
+[2025-06-02T17:09:50.640Z] [PUMPFUN] ⚠️ Modal skip failed for 8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T17:09:57.010Z] [TRACKER] 📈 Solabubu history length: 2
+[2025-06-02T17:09:57.010Z] [TRACKER] ✅ Solabubu updated - Price: 0.000004263
+[2025-06-02T17:09:57.081Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/GnXaMB8CtUZXmFaxL1N1wuE1umskjvxBYKruPRMWpump
+[2025-06-02T17:09:57.507Z] [PUMPFUN] ❌ Failed to scrape tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:09:57.507Z] [TRACKER] ⚠️ Skipping tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump - invalid or missing price
+[2025-06-02T17:09:57.508Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump
+[2025-06-02T17:10:06.217Z] [TRACKER] 📈 MOOK history length: 1
+[2025-06-02T17:10:06.218Z] [TRACKER] ✅ MOOK updated - Price: 0.000004263
+[2025-06-02T17:10:06.254Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/WwhQpupUnmH9iBiKJbmyjgXxW6cREvC3gABDngapump
+[2025-06-02T17:10:06.705Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump
+[2025-06-02T17:10:09.269Z] [PUMPFUN] ⚠️ Modal skip failed for 8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T17:10:17.166Z] [TRACKER] 📈 Solabubu history length: 3
+[2025-06-02T17:10:17.166Z] [TRACKER] ✅ Solabubu updated - Price: 0.000004263
+[2025-06-02T17:10:17.178Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/GnXaMB8CtUZXmFaxL1N1wuE1umskjvxBYKruPRMWpump
+[2025-06-02T17:10:26.976Z] [PUMPFUN] ⚠️ Modal skip failed for WwhQpupUnmH9iBiKJbmyjgXxW6cREvC3gABDngapump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T17:10:27.244Z] [PUMPFUN] ⚠️ Modal skip failed for GnXaMB8CtUZXmFaxL1N1wuE1umskjvxBYKruPRMWpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T17:10:36.623Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump
+[2025-06-02T17:10:42.736Z] [PUMPFUN] ❌ Failed to scrape Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:10:42.737Z] [TRACKER] ⚠️ Skipping Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump - invalid or missing price
+[2025-06-02T17:10:42.768Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump
+[2025-06-02T17:10:45.881Z] [PUMPFUN] ⚠️ Modal skip failed for GnXaMB8CtUZXmFaxL1N1wuE1umskjvxBYKruPRMWpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T17:10:49.746Z] [PUMPFUN] ⚠️ Modal skip failed for Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T17:10:55.149Z] [PUMPFUN] ⚠️ Modal skip failed for tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T17:10:59.113Z] [TRACKER] 📈 MOOK history length: 2
+[2025-06-02T17:10:59.113Z] [TRACKER] ✅ MOOK updated - Price: 0.000004263
+[2025-06-02T17:11:00.303Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/WwhQpupUnmH9iBiKJbmyjgXxW6cREvC3gABDngapump
+[2025-06-02T17:11:01.726Z] [TRACKER] 📈 YEGO history length: 3
+[2025-06-02T17:11:01.727Z] [TRACKER] ✅ YEGO updated - Price: 0.000004594
+[2025-06-02T17:11:01.756Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump
+[2025-06-02T17:11:02.434Z] [TRACKER] 📈 LS history length: 1
+[2025-06-02T17:11:02.434Z] [TRACKER] ✅ LS updated - Price: 0.000004765
+[2025-06-02T17:11:02.457Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/D186QJm6kAAUFXbi1pwHZeDPd4XqZPWCgFfAim162vRi
+[2025-06-02T17:11:02.683Z] [TRACKER] 📈 send/it history length: 4
+[2025-06-02T17:11:02.686Z] [TRACKER] ✅ send/it updated - Price: 0.000005263
+[2025-06-02T17:11:02.739Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump
+[2025-06-02T17:11:03.024Z] [TRACKER] 📈 MOOK history length: 3
+[2025-06-02T17:11:03.025Z] [TRACKER] ✅ MOOK updated - Price: 0.000004276
+[2025-06-02T17:11:03.037Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/WwhQpupUnmH9iBiKJbmyjgXxW6cREvC3gABDngapump
+[2025-06-02T17:11:06.603Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump
+[2025-06-02T17:11:20.560Z] [PUMPFUN] ⚠️ Modal skip failed for Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T17:11:24.783Z] [PUMPFUN] ❌ Failed to scrape Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:11:24.822Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump
+[2025-06-02T17:11:24.784Z] [TRACKER] ⚠️ Skipping Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump - invalid or missing price
+[2025-06-02T17:11:28.589Z] [TRACKER] 📈 send/it history length: 5
+[2025-06-02T17:11:28.590Z] [TRACKER] ✅ send/it updated - Price: 0.000005263
+[2025-06-02T17:11:28.616Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump
+[2025-06-02T17:11:36.678Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump
+[2025-06-02T17:11:39.698Z] [PUMPFUN] ⚠️ Modal skip failed for tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T17:12:02.953Z] [PUMPFUN] ⚠️ Modal skip failed for Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T17:12:03.632Z] [PUMPFUN] ❌ Failed to scrape WwhQpupUnmH9iBiKJbmyjgXxW6cREvC3gABDngapump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:12:03.633Z] [TRACKER] ⚠️ Skipping WwhQpupUnmH9iBiKJbmyjgXxW6cREvC3gABDngapump - invalid or missing price
+[2025-06-02T17:12:03.633Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/D186QJm6kAAUFXbi1pwHZeDPd4XqZPWCgFfAim162vRi
+[2025-06-02T17:12:06.207Z] [PUMPFUN] ❌ Failed to scrape WwhQpupUnmH9iBiKJbmyjgXxW6cREvC3gABDngapump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:12:06.207Z] [TRACKER] ⚠️ Skipping WwhQpupUnmH9iBiKJbmyjgXxW6cREvC3gABDngapump - invalid or missing price
+[2025-06-02T17:12:06.209Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/D186QJm6kAAUFXbi1pwHZeDPd4XqZPWCgFfAim162vRi
+[2025-06-02T17:12:07.572Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump
+[2025-06-02T17:12:12.632Z] [TRACKER] 📈 send/it history length: 6
+[2025-06-02T17:12:12.632Z] [TRACKER] ✅ send/it updated - Price: 0.000004471
+[2025-06-02T17:12:13.017Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump
+[2025-06-02T17:12:17.114Z] [TRACKER] 📈 YEGO history length: 4
+[2025-06-02T17:12:17.114Z] [TRACKER] ✅ YEGO updated - Price: 0.0000046
+[2025-06-02T17:12:17.275Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump
+[2025-06-02T17:12:19.068Z] [PUMPFUN] ⚠️ Modal skip failed for tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T17:12:20.040Z] [PUMPFUN] ⚠️ Modal skip failed for tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T17:12:31.160Z] [PUMPFUN] ❌ Failed to scrape D186QJm6kAAUFXbi1pwHZeDPd4XqZPWCgFfAim162vRi: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:12:31.160Z] [TRACKER] ⚠️ Skipping D186QJm6kAAUFXbi1pwHZeDPd4XqZPWCgFfAim162vRi - invalid or missing price
+[2025-06-02T17:12:31.164Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Ec7y5qVZYiUz3BP2TZZFTr71cY3rmZ2awmGHg9Srpump
+[2025-06-02T17:12:32.659Z] [TRACKER] 📈 YEGO history length: 5
+[2025-06-02T17:12:32.659Z] [TRACKER] ✅ YEGO updated - Price: 0.0000046
+[2025-06-02T17:12:32.664Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump
+[2025-06-02T17:12:36.721Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump
+[2025-06-02T17:12:39.311Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/GnXaMB8CtUZXmFaxL1N1wuE1umskjvxBYKruPRMWpump
+[2025-06-02T17:12:39.309Z] [TRACKER] ⚠️ Skipping 8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump - invalid or missing price
+[2025-06-02T17:12:39.307Z] [PUMPFUN] ❌ Failed to scrape 8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:12:45.389Z] [PUMPFUN] ⚠️ Modal skip failed for 8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T17:12:57.294Z] [TRACKER] 📈 YEGO history length: 6
+[2025-06-02T17:12:57.294Z] [TRACKER] ✅ YEGO updated - Price: 0.000004594
+[2025-06-02T17:12:58.326Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump
+[2025-06-02T17:13:03.422Z] [PUMPFUN] ⚠️ Modal skip failed for GnXaMB8CtUZXmFaxL1N1wuE1umskjvxBYKruPRMWpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T17:13:06.685Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump
+[2025-06-02T17:13:07.018Z] [PUMPFUN] ⚠️ Modal skip failed for 8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-02T17:13:10.088Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/GnXaMB8CtUZXmFaxL1N1wuE1umskjvxBYKruPRMWpump
+[2025-06-02T17:13:09.906Z] [TRACKER] ✅ Solabubu updated - Price: 0.000004275
+[2025-06-02T17:13:09.906Z] [TRACKER] 📈 Solabubu history length: 4
+[2025-06-02T17:13:11.583Z] [TRACKER] 📈 MOOK history length: 4
+[2025-06-02T17:13:11.584Z] [TRACKER] ✅ MOOK updated - Price: 0.000004263
+[2025-06-02T17:13:12.372Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/WwhQpupUnmH9iBiKJbmyjgXxW6cREvC3gABDngapump
+[2025-06-02T17:13:13.535Z] [TRACKER] 📈 Solabubu history length: 5
+[2025-06-02T17:13:13.535Z] [TRACKER] ✅ Solabubu updated - Price: 0.000004275
+[2025-06-02T17:13:13.537Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/GnXaMB8CtUZXmFaxL1N1wuE1umskjvxBYKruPRMWpump
+[2025-06-02T17:13:19.121Z] [PUMPFUN] ❌ Failed to scrape D186QJm6kAAUFXbi1pwHZeDPd4XqZPWCgFfAim162vRi: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:13:19.121Z] [TRACKER] ⚠️ Skipping D186QJm6kAAUFXbi1pwHZeDPd4XqZPWCgFfAim162vRi - invalid or missing price
+[2025-06-02T17:13:19.127Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Ec7y5qVZYiUz3BP2TZZFTr71cY3rmZ2awmGHg9Srpump
+[2025-06-02T17:13:19.025Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Ec7y5qVZYiUz3BP2TZZFTr71cY3rmZ2awmGHg9Srpump
+[2025-06-02T17:13:19.005Z] [TRACKER] ⚠️ Skipping D186QJm6kAAUFXbi1pwHZeDPd4XqZPWCgFfAim162vRi - invalid or missing price
+[2025-06-02T17:13:19.005Z] [PUMPFUN] ❌ Failed to scrape D186QJm6kAAUFXbi1pwHZeDPd4XqZPWCgFfAim162vRi: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:13:33.065Z] [TRACKER] ⚠️ Skipping tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump - invalid or missing price
+[2025-06-02T17:13:36.696Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump
+[2025-06-02T17:13:33.066Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump
+[2025-06-02T17:13:33.064Z] [PUMPFUN] ❌ Failed to scrape tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:13:38.038Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump
+[2025-06-02T17:13:38.036Z] [PUMPFUN] ❌ Failed to scrape Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:13:38.036Z] [TRACKER] ⚠️ Skipping Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump - invalid or missing price
+[2025-06-02T17:13:39.738Z] [PUMPFUN] ❌ Failed to scrape Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:13:39.739Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump
+[2025-06-02T17:13:39.739Z] [TRACKER] ⚠️ Skipping Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump - invalid or missing price
+[2025-06-02T17:14:06.615Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/7s1REVpNrV6T2tTxnzBr8ZmLxQgrCvcdfAizfsapump
+[2025-06-02T17:14:06.615Z] [TRACKER] ⚠️ Skipping Ec7y5qVZYiUz3BP2TZZFTr71cY3rmZ2awmGHg9Srpump - invalid or missing price
+[2025-06-02T17:14:06.615Z] [PUMPFUN] ❌ Failed to scrape Ec7y5qVZYiUz3BP2TZZFTr71cY3rmZ2awmGHg9Srpump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:14:06.700Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump
+[2025-06-02T17:14:20.574Z] [PUMPFUN] ❌ Failed to scrape GnXaMB8CtUZXmFaxL1N1wuE1umskjvxBYKruPRMWpump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:14:20.574Z] [TRACKER] ⚠️ Skipping GnXaMB8CtUZXmFaxL1N1wuE1umskjvxBYKruPRMWpump - invalid or missing price
+[2025-06-02T17:14:20.575Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/WwhQpupUnmH9iBiKJbmyjgXxW6cREvC3gABDngapump
+[2025-06-02T17:14:21.023Z] [PUMPFUN] ❌ Failed to scrape Ec7y5qVZYiUz3BP2TZZFTr71cY3rmZ2awmGHg9Srpump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:14:21.024Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/7s1REVpNrV6T2tTxnzBr8ZmLxQgrCvcdfAizfsapump
+[2025-06-02T17:14:21.023Z] [TRACKER] ⚠️ Skipping Ec7y5qVZYiUz3BP2TZZFTr71cY3rmZ2awmGHg9Srpump - invalid or missing price
+[2025-06-02T17:14:21.780Z] [PUMPFUN] ❌ Failed to scrape WwhQpupUnmH9iBiKJbmyjgXxW6cREvC3gABDngapump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:14:21.780Z] [TRACKER] ⚠️ Skipping WwhQpupUnmH9iBiKJbmyjgXxW6cREvC3gABDngapump - invalid or missing price
+[2025-06-02T17:14:21.782Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/D186QJm6kAAUFXbi1pwHZeDPd4XqZPWCgFfAim162vRi
+[2025-06-02T17:14:29.819Z] [PUMPFUN] ❌ Failed to scrape 8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:14:30.640Z] [TRACKER] ⚠️ Skipping GnXaMB8CtUZXmFaxL1N1wuE1umskjvxBYKruPRMWpump - invalid or missing price
+[2025-06-02T17:14:30.639Z] [PUMPFUN] ❌ Failed to scrape GnXaMB8CtUZXmFaxL1N1wuE1umskjvxBYKruPRMWpump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:14:30.641Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/WwhQpupUnmH9iBiKJbmyjgXxW6cREvC3gABDngapump
+[2025-06-02T17:14:29.821Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/GnXaMB8CtUZXmFaxL1N1wuE1umskjvxBYKruPRMWpump
+[2025-06-02T17:14:29.819Z] [TRACKER] ⚠️ Skipping 8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump - invalid or missing price
+[2025-06-02T17:14:30.645Z] [TRACKER] ⚠️ Skipping Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump - invalid or missing price
+[2025-06-02T17:14:30.646Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump
+[2025-06-02T17:14:30.645Z] [PUMPFUN] ❌ Failed to scrape Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:14:43.343Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump
+[2025-06-02T17:14:51.152Z] [PUMPFUN] ❌ Failed to scrape tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:14:51.152Z] [TRACKER] ⚠️ Skipping tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump - invalid or missing price
+[2025-06-02T17:14:51.154Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump
+[2025-06-02T17:14:51.857Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/7s1REVpNrV6T2tTxnzBr8ZmLxQgrCvcdfAizfsapump
+[2025-06-02T17:14:51.843Z] [PUMPFUN] ❌ Failed to scrape Ec7y5qVZYiUz3BP2TZZFTr71cY3rmZ2awmGHg9Srpump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:14:51.844Z] [TRACKER] ⚠️ Skipping Ec7y5qVZYiUz3BP2TZZFTr71cY3rmZ2awmGHg9Srpump - invalid or missing price
+[2025-06-02T17:15:00.959Z] [PUMPFUN] ❌ Failed to scrape Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:15:00.960Z] [TRACKER] ⚠️ Skipping Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump - invalid or missing price
+[2025-06-02T17:15:00.964Z] [TRACKER] ⚠️ Skipping tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump - invalid or missing price
+[2025-06-02T17:15:00.967Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump
+[2025-06-02T17:15:00.961Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump
+[2025-06-02T17:15:00.963Z] [PUMPFUN] ❌ Failed to scrape tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:15:19.575Z] [TRACKER] ⚠️ Skipping 7s1REVpNrV6T2tTxnzBr8ZmLxQgrCvcdfAizfsapump - invalid or missing price
+[2025-06-02T17:15:19.575Z] [PUMPFUN] ❌ Failed to scrape 7s1REVpNrV6T2tTxnzBr8ZmLxQgrCvcdfAizfsapump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:15:19.181Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump
+[2025-06-02T17:15:19.986Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/FttiUPKLVqXDfSTBhtjD7FEKDupaV7CbzhHbTuQFpump
+[2025-06-02T17:15:19.989Z] [TRACKER] ⚠️ Skipping 8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump - invalid or missing price
+[2025-06-02T17:15:19.990Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/GnXaMB8CtUZXmFaxL1N1wuE1umskjvxBYKruPRMWpump
+[2025-06-02T17:15:19.988Z] [PUMPFUN] ❌ Failed to scrape 8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:16:07.175Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump
+[2025-06-02T17:16:19.258Z] [TRACKER] ⚠️ Skipping D186QJm6kAAUFXbi1pwHZeDPd4XqZPWCgFfAim162vRi - invalid or missing price
+[2025-06-02T17:16:19.257Z] [PUMPFUN] ❌ Failed to scrape D186QJm6kAAUFXbi1pwHZeDPd4XqZPWCgFfAim162vRi: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:16:22.743Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Ec7y5qVZYiUz3BP2TZZFTr71cY3rmZ2awmGHg9Srpump
+[2025-06-02T17:16:27.753Z] [PUMPFUN] ❌ Failed to scrape Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:16:27.754Z] [TRACKER] ⚠️ Skipping Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump - invalid or missing price
+[2025-06-02T17:16:27.784Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump
+[2025-06-02T17:16:27.813Z] [PUMPFUN] ❌ Failed to scrape WwhQpupUnmH9iBiKJbmyjgXxW6cREvC3gABDngapump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:16:27.813Z] [TRACKER] ⚠️ Skipping WwhQpupUnmH9iBiKJbmyjgXxW6cREvC3gABDngapump - invalid or missing price
+[2025-06-02T17:16:27.826Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/D186QJm6kAAUFXbi1pwHZeDPd4XqZPWCgFfAim162vRi
+[2025-06-02T17:16:27.842Z] [PUMPFUN] ❌ Failed to scrape 7s1REVpNrV6T2tTxnzBr8ZmLxQgrCvcdfAizfsapump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:16:27.842Z] [TRACKER] ⚠️ Skipping 7s1REVpNrV6T2tTxnzBr8ZmLxQgrCvcdfAizfsapump - invalid or missing price
+[2025-06-02T17:16:27.845Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/FttiUPKLVqXDfSTBhtjD7FEKDupaV7CbzhHbTuQFpump
+[2025-06-02T17:16:27.849Z] [PUMPFUN] ❌ Failed to scrape tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:16:27.853Z] [PUMPFUN] ❌ Failed to scrape WwhQpupUnmH9iBiKJbmyjgXxW6cREvC3gABDngapump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:16:27.854Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/D186QJm6kAAUFXbi1pwHZeDPd4XqZPWCgFfAim162vRi
+[2025-06-02T17:16:27.913Z] [PUMPFUN] ❌ Failed to scrape 7s1REVpNrV6T2tTxnzBr8ZmLxQgrCvcdfAizfsapump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:16:27.913Z] [TRACKER] ⚠️ Skipping 7s1REVpNrV6T2tTxnzBr8ZmLxQgrCvcdfAizfsapump - invalid or missing price
+[2025-06-02T17:16:27.931Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/FttiUPKLVqXDfSTBhtjD7FEKDupaV7CbzhHbTuQFpump
+[2025-06-02T17:16:28.478Z] [PUMPFUN] ❌ Failed to scrape 8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:16:28.478Z] [TRACKER] ⚠️ Skipping 8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump - invalid or missing price
+[2025-06-02T17:16:27.850Z] [TRACKER] ⚠️ Skipping tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump - invalid or missing price
+[2025-06-02T17:16:27.851Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump
+[2025-06-02T17:16:27.853Z] [TRACKER] ⚠️ Skipping WwhQpupUnmH9iBiKJbmyjgXxW6cREvC3gABDngapump - invalid or missing price
+[2025-06-02T17:16:55.744Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/GnXaMB8CtUZXmFaxL1N1wuE1umskjvxBYKruPRMWpump
+[2025-06-02T17:16:57.627Z] [TRACKER] ⚠️ Skipping Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump - invalid or missing price
+[2025-06-02T17:16:58.217Z] [TRACKER] ⚠️ Skipping tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump - invalid or missing price
+[2025-06-02T17:16:58.071Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump
+[2025-06-02T17:16:58.217Z] [PUMPFUN] ❌ Failed to scrape tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:16:57.626Z] [PUMPFUN] ❌ Failed to scrape Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:17:03.827Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump
+[2025-06-02T17:17:12.495Z] [PUMPFUN] ❌ Failed to scrape GnXaMB8CtUZXmFaxL1N1wuE1umskjvxBYKruPRMWpump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:17:12.497Z] [TRACKER] ⚠️ Skipping GnXaMB8CtUZXmFaxL1N1wuE1umskjvxBYKruPRMWpump - invalid or missing price
+[2025-06-02T17:17:18.685Z] [PUMPFUN] ❌ Failed to scrape 8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:17:18.686Z] [TRACKER] ⚠️ Skipping 8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump - invalid or missing price
+[2025-06-02T17:17:14.773Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/WwhQpupUnmH9iBiKJbmyjgXxW6cREvC3gABDngapump
+[2025-06-02T17:17:18.813Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/GnXaMB8CtUZXmFaxL1N1wuE1umskjvxBYKruPRMWpump
+[2025-06-02T17:17:18.931Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump
+[2025-06-02T17:17:49.038Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump
+[2025-06-02T17:18:18.829Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump
+[2025-06-02T17:18:49.149Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump
+[2025-06-02T17:19:18.843Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump
+[2025-06-02T17:19:26.410Z] [TRACKER] ⚠️ Skipping tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump - invalid or missing price
+[2025-06-02T17:19:26.451Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump
+[2025-06-02T17:19:26.458Z] [TRACKER] ⚠️ Skipping Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump - invalid or missing price
+[2025-06-02T17:19:26.459Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump
+[2025-06-02T17:19:26.460Z] [TRACKER] ⚠️ Skipping GnXaMB8CtUZXmFaxL1N1wuE1umskjvxBYKruPRMWpump - invalid or missing price
+[2025-06-02T17:19:26.461Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/WwhQpupUnmH9iBiKJbmyjgXxW6cREvC3gABDngapump
+[2025-06-02T17:19:26.458Z] [PUMPFUN] ❌ Failed to scrape Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:19:26.462Z] [PUMPFUN] ❌ Failed to scrape FttiUPKLVqXDfSTBhtjD7FEKDupaV7CbzhHbTuQFpump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:19:26.460Z] [PUMPFUN] ❌ Failed to scrape GnXaMB8CtUZXmFaxL1N1wuE1umskjvxBYKruPRMWpump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:19:26.462Z] [TRACKER] ⚠️ Skipping FttiUPKLVqXDfSTBhtjD7FEKDupaV7CbzhHbTuQFpump - invalid or missing price
+[2025-06-02T17:19:26.828Z] [TRACKER] 📊 About to save 9 tokens
+[2025-06-02T17:19:26.409Z] [PUMPFUN] ❌ Failed to scrape tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:19:39.278Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-02T17:19:45.542Z] [PUMPFUN] ❌ Failed to scrape Ec7y5qVZYiUz3BP2TZZFTr71cY3rmZ2awmGHg9Srpump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:19:45.542Z] [TRACKER] ⚠️ Skipping Ec7y5qVZYiUz3BP2TZZFTr71cY3rmZ2awmGHg9Srpump - invalid or missing price
+[2025-06-02T17:19:46.084Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/7s1REVpNrV6T2tTxnzBr8ZmLxQgrCvcdfAizfsapump
+[2025-06-02T17:19:48.854Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump
+[2025-06-02T17:20:08.257Z] [PUMPFUN] ❌ Failed to scrape Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:20:08.258Z] [TRACKER] ⚠️ Skipping Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump - invalid or missing price
+[2025-06-02T17:20:08.258Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump
+[2025-06-02T17:20:15.820Z] [TRACKER] ⚠️ Skipping D186QJm6kAAUFXbi1pwHZeDPd4XqZPWCgFfAim162vRi - invalid or missing price
+[2025-06-02T17:20:15.820Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Ec7y5qVZYiUz3BP2TZZFTr71cY3rmZ2awmGHg9Srpump
+[2025-06-02T17:20:15.819Z] [PUMPFUN] ❌ Failed to scrape D186QJm6kAAUFXbi1pwHZeDPd4XqZPWCgFfAim162vRi: Navigation timeout of 60000 ms exceeded
+[2025-06-02T17:20:18.869Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Hfdw2VPQxCAQ2kA6wWLmpCXdsEWt34UhGHnDqe62pump
+[2025-06-02T17:20:30.396Z] [PUMPFUN] ❌ Failed to scrape tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump: net::ERR_SOCKET_NOT_CONNECTED at https://pump.fun/coin/tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump
+[2025-06-02T17:20:30.396Z] [TRACKER] ⚠️ Skipping tCvpqiLvcvjNPUz87L464iyd6AaALTuwTmaMrBSpump - invalid or missing price
+[2025-06-02T17:20:31.720Z] [TRACKER] ⚠️ Skipping D186QJm6kAAUFXbi1pwHZeDPd4XqZPWCgFfAim162vRi - invalid or missing price
+[2025-06-02T17:20:30.530Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8RJ6VtLTUcQHQh2m9CswC4yBFAYaxGfftHJ1q7bhpump
+[2025-06-02T17:20:31.719Z] [PUMPFUN] ❌ Failed to scrape D186QJm6kAAUFXbi1pwHZeDPd4XqZPWCgFfAim162vRi: net::ERR_SOCKET_NOT_CONNECTED at https://pump.fun/coin/D186QJm6kAAUFXbi1pwHZeDPd4XqZPWCgFfAim162vRi
+[2025-06-02T17:20:32.497Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/Ec7y5qVZYiUz3BP2TZZFTr71cY3rmZ2awmGHg9Srpump
+[2025-06-03T07:18:37.448Z] [SCRAPER] ✅ Loaded Pump.fun Advanced page
+[2025-06-03T07:19:37.812Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T07:19:37.813Z] [SCRAPER] 🆕 Tracking new token: Pussy | MC: $526 | Vol: $526
+[2025-06-03T07:19:37.930Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T07:19:37.918Z] [SCRAPER] 🆕 Tracking new token: Esper | MC: $2900 | Vol: $2900
+[2025-06-03T07:19:37.929Z] [SCRAPER] 🆕 Tracking new token: GTA7 | MC: $465 | Vol: $465
+[2025-06-03T07:20:37.531Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T07:20:37.530Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T07:21:17.066Z] [TRACKER] ✅ Tracker started
+[2025-06-03T07:21:51.505Z] [TRACKER] ⚠️ Skipping EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump - invalid or missing price
+[2025-06-03T07:21:52.939Z] [TRACKER] ⚠️ Skipping FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR - invalid or missing price
+[2025-06-03T07:21:53.140Z] [TRACKER] ⚠️ Skipping 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump - invalid or missing price
+[2025-06-03T07:21:53.140Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T07:21:53.153Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T07:22:17.599Z] [TRACKER] ⚠️ Skipping EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump - invalid or missing price
+[2025-06-03T07:22:17.781Z] [TRACKER] ⚠️ Skipping FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR - invalid or missing price
+[2025-06-03T07:22:18.051Z] [TRACKER] ⚠️ Skipping 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump - invalid or missing price
+[2025-06-03T07:22:18.051Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T07:22:18.058Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T07:22:47.274Z] [TRACKER] ⚠️ Skipping EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump - invalid or missing price
+[2025-06-03T07:22:47.496Z] [TRACKER] ⚠️ Skipping FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR - invalid or missing price
+[2025-06-03T07:22:47.695Z] [TRACKER] ⚠️ Skipping 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump - invalid or missing price
+[2025-06-03T07:22:47.698Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T07:22:47.695Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T07:24:00.276Z] [TRACKER] ✅ Tracker started
+[2025-06-03T07:24:32.180Z] [TRACKER] ⚠️ Skipping EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump - invalid or missing price
+[2025-06-03T07:24:33.135Z] [TRACKER] ⚠️ Skipping FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR - invalid or missing price
+[2025-06-03T07:24:33.294Z] [TRACKER] ⚠️ Skipping 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump - invalid or missing price
+[2025-06-03T07:24:33.294Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T07:24:33.319Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T07:25:00.535Z] [TRACKER] ⚠️ Skipping EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump - invalid or missing price
+[2025-06-03T07:25:01.020Z] [TRACKER] ⚠️ Skipping FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR - invalid or missing price
+[2025-06-03T07:25:01.301Z] [TRACKER] ⚠️ Skipping 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump - invalid or missing price
+[2025-06-03T07:25:01.303Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T07:25:01.308Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T07:25:30.512Z] [TRACKER] ⚠️ Skipping EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump - invalid or missing price
+[2025-06-03T07:25:30.830Z] [TRACKER] ⚠️ Skipping FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR - invalid or missing price
+[2025-06-03T07:25:31.116Z] [TRACKER] ⚠️ Skipping 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump - invalid or missing price
+[2025-06-03T07:25:31.117Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T07:25:31.120Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T07:26:00.948Z] [TRACKER] ⚠️ Skipping EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump - invalid or missing price
+[2025-06-03T07:26:01.724Z] [TRACKER] ⚠️ Skipping FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR - invalid or missing price
+[2025-06-03T07:26:02.542Z] [TRACKER] ⚠️ Skipping 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump - invalid or missing price
+[2025-06-03T07:26:02.542Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T07:26:02.559Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T07:26:30.604Z] [TRACKER] ⚠️ Skipping EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump - invalid or missing price
+[2025-06-03T07:26:31.183Z] [TRACKER] ⚠️ Skipping FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR - invalid or missing price
+[2025-06-03T07:26:31.471Z] [TRACKER] ⚠️ Skipping 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump - invalid or missing price
+[2025-06-03T07:26:31.471Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T07:26:31.473Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T07:27:00.563Z] [TRACKER] ⚠️ Skipping EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump - invalid or missing price
+[2025-06-03T07:27:00.827Z] [TRACKER] ⚠️ Skipping FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR - invalid or missing price
+[2025-06-03T07:27:01.075Z] [TRACKER] ⚠️ Skipping 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump - invalid or missing price
+[2025-06-03T07:27:01.076Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T07:27:01.080Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T07:27:25.848Z] [TRACKER] ✅ Tracker started
+[2025-06-03T07:27:55.859Z] [TRACKER] ❌ Error tracking EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump: getPumpFunDataLogic is not defined
+[2025-06-03T07:27:55.860Z] [TRACKER] ❌ Error tracking FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR: getPumpFunDataLogic is not defined
+[2025-06-03T07:27:55.860Z] [TRACKER] ❌ Error tracking 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump: getPumpFunDataLogic is not defined
+[2025-06-03T07:27:55.860Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T07:27:55.865Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T07:28:25.869Z] [TRACKER] ❌ Error tracking EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump: getPumpFunDataLogic is not defined
+[2025-06-03T07:28:25.869Z] [TRACKER] ❌ Error tracking FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR: getPumpFunDataLogic is not defined
+[2025-06-03T07:28:25.870Z] [TRACKER] ❌ Error tracking 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump: getPumpFunDataLogic is not defined
+[2025-06-03T07:28:25.871Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T07:28:25.882Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T07:30:08.400Z] [TRACKER] ✅ Tracker started
+[2025-06-03T07:30:40.660Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/[object Object]
+[2025-06-03T07:31:02.556Z] [PUMPFUN] ❌ Missing price or market cap in DOM for [object Object]
+[2025-06-03T07:31:02.560Z] [PUMPFUN] ❌ Failed to scrape [object Object]: Missing price or market cap in DOM for [object Object]
+[2025-06-03T07:31:02.588Z] [TRACKER] ⚠️ Skipping EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump - invalid or missing price
+[2025-06-03T07:31:02.778Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/[object Object]
+[2025-06-03T07:31:09.529Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/[object Object]
+[2025-06-03T07:31:16.963Z] [PUMPFUN] ❌ Missing price or market cap in DOM for [object Object]
+[2025-06-03T07:31:16.964Z] [PUMPFUN] ❌ Failed to scrape [object Object]: Missing price or market cap in DOM for [object Object]
+[2025-06-03T07:31:17.095Z] [TRACKER] ⚠️ Skipping FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR - invalid or missing price
+[2025-06-03T07:31:17.415Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/[object Object]
+[2025-06-03T07:31:18.003Z] [PUMPFUN] ❌ Missing price or market cap in DOM for [object Object]
+[2025-06-03T07:31:18.004Z] [PUMPFUN] ❌ Failed to scrape [object Object]: Missing price or market cap in DOM for [object Object]
+[2025-06-03T07:31:18.017Z] [TRACKER] ⚠️ Skipping EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump - invalid or missing price
+[2025-06-03T07:31:24.046Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/[object Object]
+[2025-06-03T07:31:25.740Z] [PUMPFUN] ❌ Missing price or market cap in DOM for [object Object]
+[2025-06-03T07:31:25.743Z] [PUMPFUN] ❌ Failed to scrape [object Object]: Missing price or market cap in DOM for [object Object]
+[2025-06-03T07:31:25.783Z] [TRACKER] ⚠️ Skipping 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump - invalid or missing price
+[2025-06-03T07:31:25.784Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T07:31:25.796Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T07:31:31.600Z] [PUMPFUN] ❌ Missing price or market cap in DOM for [object Object]
+[2025-06-03T07:31:31.601Z] [PUMPFUN] ❌ Failed to scrape [object Object]: Missing price or market cap in DOM for [object Object]
+[2025-06-03T07:31:31.623Z] [TRACKER] ⚠️ Skipping FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR - invalid or missing price
+[2025-06-03T07:31:31.818Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/[object Object]
+[2025-06-03T07:31:38.632Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/[object Object]
+[2025-06-03T07:31:39.047Z] [PUMPFUN] ❌ Missing price or market cap in DOM for [object Object]
+[2025-06-03T07:31:39.049Z] [PUMPFUN] ❌ Failed to scrape [object Object]: Missing price or market cap in DOM for [object Object]
+[2025-06-03T07:31:39.074Z] [TRACKER] ⚠️ Skipping 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump - invalid or missing price
+[2025-06-03T07:31:39.074Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T07:31:39.078Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T07:31:46.169Z] [PUMPFUN] ❌ Missing price or market cap in DOM for [object Object]
+[2025-06-03T07:31:46.173Z] [PUMPFUN] ❌ Failed to scrape [object Object]: Missing price or market cap in DOM for [object Object]
+[2025-06-03T07:31:46.220Z] [TRACKER] ⚠️ Skipping EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump - invalid or missing price
+[2025-06-03T07:31:46.376Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/[object Object]
+[2025-06-03T07:46:24.265Z] [TRACKER] ✅ Tracker started
+[2025-06-03T07:46:56.405Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/[object Object]
+[2025-06-03T07:47:20.150Z] [PUMPFUN] ❌ Missing price or market cap in DOM for [object Object]
+[2025-06-03T07:47:20.153Z] [PUMPFUN] ❌ Failed to scrape [object Object]: Missing price or market cap in DOM for [object Object]
+[2025-06-03T07:47:20.202Z] [TRACKER] ⚠️ Skipping EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump - invalid or missing price
+[2025-06-03T07:47:20.431Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/[object Object]
+[2025-06-03T07:47:26.609Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/[object Object]
+[2025-06-03T07:52:34.039Z] [TRACKER] ✅ Tracker started
+[2025-06-03T07:53:20.065Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/[object Object]
+[2025-06-03T07:53:34.403Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/[object Object]
+[2025-06-03T07:54:04.701Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/[object Object]
+[2025-06-03T07:59:08.968Z] [TRACKER] ✅ Tracker started
+[2025-06-03T08:00:00.509Z] [TRACKER] ⚠️ Skipping EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump - invalid or missing price
+[2025-06-03T08:00:01.074Z] [TRACKER] ⚠️ Skipping FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR - invalid or missing price
+[2025-06-03T08:00:02.457Z] [TRACKER] ⚠️ Skipping 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump - invalid or missing price
+[2025-06-03T08:00:02.457Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T08:00:02.459Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T08:00:09.167Z] [TRACKER] ⚠️ Skipping EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump - invalid or missing price
+[2025-06-03T08:00:09.534Z] [TRACKER] ⚠️ Skipping FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR - invalid or missing price
+[2025-06-03T08:00:10.047Z] [TRACKER] ⚠️ Skipping 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump - invalid or missing price
+[2025-06-03T08:00:10.047Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T08:00:10.053Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T08:00:39.329Z] [TRACKER] ⚠️ Skipping EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump - invalid or missing price
+[2025-06-03T08:00:39.862Z] [TRACKER] ⚠️ Skipping FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR - invalid or missing price
+[2025-06-03T08:00:40.176Z] [TRACKER] ⚠️ Skipping 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump - invalid or missing price
+[2025-06-03T08:00:40.177Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T08:00:40.181Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T08:01:09.209Z] [TRACKER] ⚠️ Skipping EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump - invalid or missing price
+[2025-06-03T08:01:09.525Z] [TRACKER] ⚠️ Skipping FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR - invalid or missing price
+[2025-06-03T08:01:09.896Z] [TRACKER] ⚠️ Skipping 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump - invalid or missing price
+[2025-06-03T08:01:09.896Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T08:01:09.906Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T08:02:58.178Z] [TRACKER] ✅ Tracker started
+[2025-06-03T08:03:31.120Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump
+[2025-06-03T08:04:02.484Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump
+[2025-06-03T08:04:06.236Z] [PUMPFUN] ⚠️ Modal skip failed for EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:04:23.265Z] [PUMPFUN] ⚠️ Modal skip failed for EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:04:23.736Z] [TRACKER] 📈 Pussy history length: 1
+[2025-06-03T08:04:23.852Z] [TRACKER] ✅ Pussy updated - Price: 0.000004477
+[2025-06-03T08:04:29.500Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump
+[2025-06-03T08:04:32.215Z] [TRACKER] 📈 Pussy history length: 2
+[2025-06-03T08:04:32.215Z] [TRACKER] ✅ Pussy updated - Price: 0.000004477
+[2025-06-03T08:04:35.180Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR
+[2025-06-03T08:04:38.138Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR
+[2025-06-03T08:04:46.769Z] [PUMPFUN] ⚠️ Modal skip failed for EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:04:49.136Z] [PUMPFUN] ⚠️ Modal skip failed for FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:04:53.291Z] [TRACKER] 📈 Esper history length: 1
+[2025-06-03T08:04:53.292Z] [TRACKER] ✅ Esper updated - Price: 0.000004485
+[2025-06-03T08:04:53.765Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump
+[2025-06-03T08:05:02.652Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump
+[2025-06-03T08:05:02.686Z] [PUMPFUN] ⚠️ Modal skip failed for FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:05:05.536Z] [PUMPFUN] ⚠️ Modal skip failed for 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:05:06.463Z] [TRACKER] 📈 Pussy history length: 3
+[2025-06-03T08:05:06.463Z] [TRACKER] ✅ Pussy updated - Price: 0.000004477
+[2025-06-03T08:05:08.230Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR
+[2025-06-03T08:05:08.580Z] [TRACKER] 📈 Esper history length: 2
+[2025-06-03T08:05:08.580Z] [TRACKER] ✅ Esper updated - Price: 0.000004485
+[2025-06-03T08:05:10.715Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump
+[2025-06-03T08:05:27.469Z] [PUMPFUN] ⚠️ Modal skip failed for 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:05:29.455Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump
+[2025-06-03T08:05:35.923Z] [TRACKER] 📈 GTA7 history length: 1
+[2025-06-03T08:05:35.923Z] [TRACKER] ✅ GTA7 updated - Price: 0.000004642
+[2025-06-03T08:05:36.062Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T08:05:36.081Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T08:05:38.303Z] [TRACKER] ✅ GTA7 updated - Price: 0.000004642
+[2025-06-03T08:05:38.302Z] [TRACKER] 📈 GTA7 history length: 2
+[2025-06-03T08:05:38.305Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T08:05:38.719Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T08:05:43.996Z] [PUMPFUN] ⚠️ Modal skip failed for EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:05:44.065Z] [TRACKER] 📈 Pussy history length: 4
+[2025-06-03T08:05:44.065Z] [TRACKER] ✅ Pussy updated - Price: 0.000004477
+[2025-06-03T08:05:58.592Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump
+[2025-06-03T08:05:59.551Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR
+[2025-06-03T08:06:12.979Z] [PUMPFUN] ⚠️ Modal skip failed for FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:06:16.581Z] [TRACKER] 📈 Esper history length: 3
+[2025-06-03T08:06:16.581Z] [TRACKER] ✅ Esper updated - Price: 0.000004485
+[2025-06-03T08:06:17.567Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump
+[2025-06-03T08:06:19.351Z] [TRACKER] 📈 Pussy history length: 5
+[2025-06-03T08:06:19.351Z] [TRACKER] ✅ Pussy updated - Price: 0.000004477
+[2025-06-03T08:06:21.216Z] [PUMPFUN] ❌ Failed to scrape FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR: Navigation timeout of 60000 ms exceeded
+[2025-06-03T08:06:21.254Z] [TRACKER] ⚠️ Skipping FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR - invalid or missing price
+[2025-06-03T08:06:35.944Z] [PUMPFUN] ⚠️ Modal skip failed for 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:06:37.975Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump
+[2025-06-03T08:06:40.392Z] [TRACKER] 📈 GTA7 history length: 3
+[2025-06-03T08:06:40.392Z] [TRACKER] ✅ GTA7 updated - Price: 0.000004642
+[2025-06-03T08:06:40.393Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T08:06:40.399Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T08:06:47.254Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR
+[2025-06-03T08:06:48.847Z] [PUMPFUN] ⚠️ Modal skip failed for EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:06:58.235Z] [PUMPFUN] ⚠️ Modal skip failed for FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:06:59.088Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump
+[2025-06-03T08:07:01.765Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump
+[2025-06-03T08:07:02.373Z] [TRACKER] 📈 Pussy history length: 6
+[2025-06-03T08:07:02.373Z] [TRACKER] ✅ Pussy updated - Price: 0.000004477
+[2025-06-03T08:07:03.075Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR
+[2025-06-03T08:07:06.732Z] [PUMPFUN] ⚠️ Modal skip failed for EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:07:11.361Z] [PUMPFUN] ⚠️ Modal skip failed for EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:07:16.166Z] [TRACKER] 📈 Pussy history length: 7
+[2025-06-03T08:07:16.166Z] [TRACKER] ✅ Pussy updated - Price: 0.000004477
+[2025-06-03T08:07:17.643Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR
+[2025-06-03T08:07:20.023Z] [TRACKER] 📈 Esper history length: 4
+[2025-06-03T08:07:20.024Z] [TRACKER] ✅ Esper updated - Price: 0.000004485
+[2025-06-03T08:07:27.088Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump
+[2025-06-03T08:07:29.661Z] [PUMPFUN] ⚠️ Modal skip failed for FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:07:30.925Z] [TRACKER] 📈 Esper history length: 5
+[2025-06-03T08:07:30.926Z] [TRACKER] ✅ Esper updated - Price: 0.000004485
+[2025-06-03T08:07:35.808Z] [TRACKER] 📈 Pussy history length: 8
+[2025-06-03T08:07:35.808Z] [TRACKER] ✅ Pussy updated - Price: 0.000004477
+[2025-06-03T08:07:38.651Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR
+[2025-06-03T08:07:39.697Z] [PUMPFUN] ⚠️ Modal skip failed for 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:07:49.259Z] [PUMPFUN] ⚠️ Modal skip failed for FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:07:53.041Z] [TRACKER] ✅ Esper updated - Price: 0.000004485
+[2025-06-03T08:07:53.041Z] [TRACKER] 📈 Esper history length: 6
+[2025-06-03T08:07:55.451Z] [TRACKER] 📈 GTA7 history length: 4
+[2025-06-03T08:07:55.451Z] [TRACKER] ✅ GTA7 updated - Price: 0.000004642
+[2025-06-03T08:07:55.455Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T08:07:55.631Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T08:07:56.144Z] [TRACKER] 📈 Esper history length: 7
+[2025-06-03T08:07:56.144Z] [TRACKER] ✅ Esper updated - Price: 0.000004485
+[2025-06-03T08:08:01.714Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump
+[2025-06-03T08:08:03.433Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump
+[2025-06-03T08:08:04.897Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump
+[2025-06-03T08:08:11.713Z] [TRACKER] 📈 GTA7 history length: 5
+[2025-06-03T08:08:11.714Z] [TRACKER] ✅ GTA7 updated - Price: 0.000004642
+[2025-06-03T08:08:11.717Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T08:08:11.774Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T08:08:13.654Z] [PUMPFUN] ⚠️ Modal skip failed for 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:08:14.697Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump
+[2025-06-03T08:08:16.576Z] [PUMPFUN] ⚠️ Modal skip failed for EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:08:27.136Z] [PUMPFUN] ⚠️ Modal skip failed for EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:08:28.128Z] [TRACKER] 📈 Pussy history length: 9
+[2025-06-03T08:08:28.128Z] [TRACKER] ✅ Pussy updated - Price: 0.000004472
+[2025-06-03T08:08:36.581Z] [TRACKER] 📈 Pussy history length: 10
+[2025-06-03T08:08:36.582Z] [TRACKER] ✅ Pussy updated - Price: 0.000004472
+[2025-06-03T08:08:37.443Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR
+[2025-06-03T08:08:39.998Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump
+[2025-06-03T08:08:50.703Z] [PUMPFUN] ⚠️ Modal skip failed for EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:08:53.451Z] [TRACKER] 📈 GTA7 history length: 6
+[2025-06-03T08:08:53.451Z] [TRACKER] ✅ GTA7 updated - Price: 0.000004642
+[2025-06-03T08:08:53.453Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T08:08:53.499Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T08:08:57.496Z] [TRACKER] 📈 Pussy history length: 11
+[2025-06-03T08:08:57.496Z] [TRACKER] ✅ Pussy updated - Price: 0.000004472
+[2025-06-03T08:08:57.937Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR
+[2025-06-03T08:08:58.323Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR
+[2025-06-03T08:08:58.831Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump
+[2025-06-03T08:09:00.648Z] [PUMPFUN] ⚠️ Modal skip failed for FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:09:03.145Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump
+[2025-06-03T08:09:19.541Z] [PUMPFUN] ⚠️ Modal skip failed for EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:09:29.687Z] [PUMPFUN] ❌ Failed to scrape 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump: Navigation timeout of 60000 ms exceeded
+[2025-06-03T08:09:30.150Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T08:09:30.156Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T08:09:30.150Z] [TRACKER] ⚠️ Skipping 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump - invalid or missing price
+[2025-06-03T08:09:30.684Z] [TRACKER] 📈 Pussy history length: 12
+[2025-06-03T08:09:30.684Z] [TRACKER] ✅ Pussy updated - Price: 0.000004472
+[2025-06-03T08:09:43.958Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump
+[2025-06-03T08:09:44.900Z] [TRACKER] 📈 Esper history length: 8
+[2025-06-03T08:09:44.900Z] [TRACKER] ✅ Esper updated - Price: 0.000004485
+[2025-06-03T08:09:48.892Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR
+[2025-06-03T08:09:53.189Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump
+[2025-06-03T08:10:00.225Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump
+[2025-06-03T08:10:02.704Z] [PUMPFUN] ❌ Failed to scrape FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR: Navigation timeout of 60000 ms exceeded
+[2025-06-03T08:10:03.502Z] [TRACKER] ⚠️ Skipping FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR - invalid or missing price
+[2025-06-03T08:10:04.212Z] [PUMPFUN] ⚠️ Modal skip failed for 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:10:08.984Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump
+[2025-06-03T08:10:11.492Z] [PUMPFUN] ⚠️ Modal skip failed for EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:10:15.137Z] [PUMPFUN] ❌ Failed to scrape FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR: Navigation timeout of 60000 ms exceeded
+[2025-06-03T08:10:15.540Z] [PUMPFUN] ❌ Failed to scrape 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump: Navigation timeout of 60000 ms exceeded
+[2025-06-03T08:10:16.170Z] [TRACKER] ⚠️ Skipping FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR - invalid or missing price
+[2025-06-03T08:10:16.460Z] [TRACKER] ⚠️ Skipping 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump - invalid or missing price
+[2025-06-03T08:10:16.460Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T08:10:18.438Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T08:10:24.495Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump
+[2025-06-03T08:10:28.795Z] [PUMPFUN] ⚠️ Modal skip failed for 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:10:31.963Z] [TRACKER] 📈 Pussy history length: 13
+[2025-06-03T08:10:31.963Z] [TRACKER] ✅ Pussy updated - Price: 0.000004472
+[2025-06-03T08:10:33.241Z] [TRACKER] 📈 GTA7 history length: 7
+[2025-06-03T08:10:33.242Z] [TRACKER] ✅ GTA7 updated - Price: 0.000004642
+[2025-06-03T08:10:36.244Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T08:10:36.299Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T08:10:38.187Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR
+[2025-06-03T08:10:40.735Z] [TRACKER] 📈 GTA7 history length: 8
+[2025-06-03T08:10:40.736Z] [TRACKER] ✅ GTA7 updated - Price: 0.000004642
+[2025-06-03T08:10:40.738Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T08:10:40.754Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T08:10:45.235Z] [PUMPFUN] ❌ Failed to scrape EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump: Navigation timeout of 60000 ms exceeded
+[2025-06-03T08:10:45.672Z] [TRACKER] ⚠️ Skipping EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump - invalid or missing price
+[2025-06-03T08:10:46.184Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR
+[2025-06-03T08:10:46.304Z] [PUMPFUN] ⚠️ Modal skip failed for 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:10:49.936Z] [PUMPFUN] ⚠️ Modal skip failed for FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:10:54.226Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump
+[2025-06-03T08:10:56.663Z] [PUMPFUN] ⚠️ Modal skip failed for FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:11:02.753Z] [TRACKER] 📈 GTA7 history length: 9
+[2025-06-03T08:11:02.754Z] [TRACKER] ✅ GTA7 updated - Price: 0.000004642
+[2025-06-03T08:11:02.948Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T08:11:03.162Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T08:11:03.414Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump
+[2025-06-03T08:11:09.675Z] [PUMPFUN] ❌ Failed to scrape FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR: Navigation timeout of 60000 ms exceeded
+[2025-06-03T08:11:10.195Z] [TRACKER] ⚠️ Skipping FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR - invalid or missing price
+[2025-06-03T08:11:14.065Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump
+[2025-06-03T08:11:15.088Z] [PUMPFUN] ⚠️ Modal skip failed for EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:11:19.113Z] [PUMPFUN] ⚠️ Modal skip failed for EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:11:26.571Z] [PUMPFUN] ⚠️ Modal skip failed for 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:11:31.488Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump
+[2025-06-03T08:11:33.369Z] [TRACKER] 📈 GTA7 history length: 10
+[2025-06-03T08:11:33.369Z] [TRACKER] ✅ GTA7 updated - Price: 0.000004642
+[2025-06-03T08:11:33.371Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T08:11:34.812Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T08:11:37.876Z] [TRACKER] 📈 Pussy history length: 14
+[2025-06-03T08:11:37.876Z] [TRACKER] ✅ Pussy updated - Price: 0.000004473
+[2025-06-03T08:11:39.973Z] [TRACKER] 📈 Pussy history length: 15
+[2025-06-03T08:11:39.973Z] [TRACKER] ✅ Pussy updated - Price: 0.000004473
+[2025-06-03T08:11:43.799Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR
+[2025-06-03T08:11:55.749Z] [PUMPFUN] ⚠️ Modal skip failed for FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:12:00.792Z] [TRACKER] 📈 Esper history length: 9
+[2025-06-03T08:12:00.793Z] [TRACKER] ✅ Esper updated - Price: 0.000004486
+[2025-06-03T08:12:02.621Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR
+[2025-06-03T08:12:04.853Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump
+[2025-06-03T08:12:05.727Z] [PUMPFUN] ⚠️ Modal skip failed for EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:12:06.908Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump
+[2025-06-03T08:12:08.018Z] [TRACKER] 📈 Esper history length: 10
+[2025-06-03T08:12:08.018Z] [TRACKER] ✅ Esper updated - Price: 0.000004485
+[2025-06-03T08:12:26.936Z] [TRACKER] 📈 Pussy history length: 16
+[2025-06-03T08:12:26.937Z] [TRACKER] ✅ Pussy updated - Price: 0.000004473
+[2025-06-03T08:12:34.083Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump
+[2025-06-03T08:12:40.839Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump
+[2025-06-03T08:12:44.655Z] [PUMPFUN] ⚠️ Modal skip failed for 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:12:45.255Z] [TRACKER] ✅ GTA7 updated - Price: 0.000004642
+[2025-06-03T08:12:45.255Z] [TRACKER] 📈 GTA7 history length: 11
+[2025-06-03T08:12:45.257Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T08:12:45.393Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T08:12:48.989Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR
+[2025-06-03T08:12:55.511Z] [PUMPFUN] ⚠️ Modal skip failed for EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:13:03.790Z] [TRACKER] 📈 GTA7 history length: 12
+[2025-06-03T08:13:03.790Z] [TRACKER] ✅ GTA7 updated - Price: 0.000004642
+[2025-06-03T08:13:05.498Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T08:13:05.626Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T08:13:08.572Z] [PUMPFUN] ❌ Failed to scrape EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump: Navigation timeout of 60000 ms exceeded
+[2025-06-03T08:13:08.615Z] [PUMPFUN] ❌ Failed to scrape FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR: Navigation timeout of 60000 ms exceeded
+[2025-06-03T08:13:08.652Z] [TRACKER] 📈 Pussy history length: 17
+[2025-06-03T08:13:08.652Z] [TRACKER] ✅ Pussy updated - Price: 0.000004473
+[2025-06-03T08:13:09.152Z] [TRACKER] ⚠️ Skipping EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump - invalid or missing price
+[2025-06-03T08:13:09.448Z] [TRACKER] ⚠️ Skipping FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR - invalid or missing price
+[2025-06-03T08:13:09.556Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump
+[2025-06-03T08:13:21.152Z] [PUMPFUN] ⚠️ Modal skip failed for EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:13:21.424Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump
+[2025-06-03T08:13:31.320Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump
+[2025-06-03T08:13:32.417Z] [PUMPFUN] ⚠️ Modal skip failed for 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:13:39.685Z] [TRACKER] 📈 GTA7 history length: 13
+[2025-06-03T08:13:39.685Z] [TRACKER] ✅ GTA7 updated - Price: 0.000004642
+[2025-06-03T08:13:40.066Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T08:13:41.381Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T08:13:45.131Z] [TRACKER] 📈 Pussy history length: 18
+[2025-06-03T08:13:45.131Z] [TRACKER] ✅ Pussy updated - Price: 0.000004473
+[2025-06-03T08:13:49.638Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR
+[2025-06-03T08:13:49.834Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR
+[2025-06-03T08:13:50.272Z] [PUMPFUN] ❌ Failed to scrape FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR: Navigation timeout of 60000 ms exceeded
+[2025-06-03T08:13:52.084Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR
+[2025-06-03T08:13:52.357Z] [TRACKER] ⚠️ Skipping FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR - invalid or missing price
+[2025-06-03T08:13:52.634Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump
+[2025-06-03T08:13:52.686Z] [PUMPFUN] ⚠️ Modal skip failed for EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:13:58.422Z] [PUMPFUN] ❌ Failed to scrape FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR: Runtime.callFunctionOn timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.
+[2025-06-03T08:13:59.666Z] [TRACKER] ⚠️ Skipping FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR - invalid or missing price
+[2025-06-03T08:14:07.476Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump
+[2025-06-03T08:14:08.350Z] [PUMPFUN] ⚠️ Modal skip failed for 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:14:12.325Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump
+[2025-06-03T08:14:24.120Z] [TRACKER] 📈 GTA7 history length: 14
+[2025-06-03T08:14:24.121Z] [TRACKER] ✅ GTA7 updated - Price: 0.000004642
+[2025-06-03T08:14:26.491Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T08:14:26.950Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T08:14:31.956Z] [PUMPFUN] ⚠️ Modal skip failed for 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:14:35.732Z] [TRACKER] ✅ Pussy updated - Price: 0.000004473
+[2025-06-03T08:14:35.732Z] [TRACKER] 📈 Pussy history length: 19
+[2025-06-03T08:14:51.560Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR
+[2025-06-03T08:14:52.866Z] [TRACKER] 📊 About to save 3 tokens
+[2025-06-03T08:14:52.717Z] [TRACKER] 📈 GTA7 history length: 15
+[2025-06-03T08:14:52.687Z] [PUMPFUN] ❌ Failed to scrape FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR: Navigation timeout of 60000 ms exceeded
+[2025-06-03T08:14:52.918Z] [TRACKER] 💾 Watchlist saved successfully
+[2025-06-03T08:14:52.718Z] [TRACKER] ✅ GTA7 updated - Price: 0.000004642
+[2025-06-03T08:14:53.286Z] [TRACKER] ⚠️ Skipping FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR - invalid or missing price
+[2025-06-03T08:14:53.280Z] [PUMPFUN] ❌ Failed to scrape FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR: Navigation timeout of 60000 ms exceeded
+[2025-06-03T08:14:53.596Z] [TRACKER] ⚠️ Skipping FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR - invalid or missing price
+[2025-06-03T08:14:59.993Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump
+[2025-06-03T08:15:04.259Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump
+[2025-06-03T08:15:05.729Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump
+[2025-06-03T08:15:07.004Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump
+[2025-06-03T08:15:08.274Z] [PUMPFUN] ⚠️ Modal skip failed for FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:15:09.694Z] [PUMPFUN] ❌ Failed to scrape FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR: Navigation timeout of 60000 ms exceeded
+[2025-06-03T08:15:09.805Z] [TRACKER] ⚠️ Skipping FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR - invalid or missing price
+[2025-06-03T08:15:12.926Z] [PUMPFUN] ⚠️ Modal skip failed for EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T08:15:54.823Z] [PUMPFUN] ❌ Failed to scrape EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump: Navigation timeout of 60000 ms exceeded
+[2025-06-03T08:16:13.829Z] [TRACKER] ⚠️ Skipping EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump - invalid or missing price
+[2025-06-03T08:16:16.281Z] [TRACKER] 📈 Pussy history length: 20
+[2025-06-03T08:16:16.281Z] [TRACKER] ✅ Pussy updated - Price: 0.000004473
+[2025-06-03T08:16:47.497Z] [PUMPFUN] ⚠️ Modal skip failed for EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T09:10:13.581Z] [CORE] 🔁 Starting new loop cycle...
+[2025-06-03T09:10:13.584Z] [CORE] ❌ Loop error: scrapeTokens is not a function
+[2025-06-03T09:10:23.587Z] [CORE] 🔁 Starting new loop cycle...
+[2025-06-03T09:10:23.588Z] [CORE] ❌ Loop error: scrapeTokens is not a function
+[2025-06-03T09:10:33.596Z] [CORE] 🔁 Starting new loop cycle...
+[2025-06-03T09:10:33.598Z] [CORE] ❌ Loop error: scrapeTokens is not a function
+[2025-06-03T09:11:25.151Z] [CORE] 🔁 Starting new loop cycle...
+[2025-06-03T09:11:25.153Z] [CORE] ❌ Loop error: scrapeTokens is not defined
+[2025-06-03T09:12:16.257Z] [CORE] 🔁 Starting new loop cycle...
+[2025-06-03T09:12:46.902Z] [SCRAPER] ✅ Loaded Pump.fun Advanced page
+[2025-06-03T09:12:46.902Z] [CORE] ✅ Scrape complete
+[2025-06-03T09:12:46.903Z] [TRACKER] ✅ Tracker started
+[2025-06-03T09:12:51.720Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump
+[2025-06-03T09:13:48.408Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T09:13:48.409Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T09:14:09.780Z] [PUMPFUN] ❌ Failed to scrape EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump: Navigation timeout of 60000 ms exceeded
+[2025-06-03T09:14:11.889Z] [TRACKER] ⚠️ Skipping EDUPCmmVMtR4zi3MsgfM5VosXpU5R7WYRRbkMi8Hpump - invalid price
+[2025-06-03T09:14:14.659Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR
+[2025-06-03T09:14:34.835Z] [PUMPFUN] ⚠️ Modal skip failed for FwfpDoDMGoD7TkmeFzhXexrujDAB9rkw7fk9FawHMfPR: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T09:14:45.397Z] [TRACKER] 💾 Watchlist saved
+[2025-06-03T09:14:48.599Z] [PUMPFUN] 🌐 Fetching: https://pump.fun/coin/8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump
+[2025-06-03T09:14:49.387Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T09:14:49.388Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T09:15:37.170Z] [PUMPFUN] ⚠️ Modal skip failed for 8Ku9tfyr5pRb59xND8z9ALjdNF1v2gC3dXfspHorpump: Waiting for selector `button` failed: Waiting failed: 5000ms exceeded
+[2025-06-03T09:15:49.191Z] [TRACKER] 💾 Watchlist saved
+[2025-06-03T09:15:49.191Z] [CORE] ✅ Tracker pass complete
+[2025-06-03T09:15:49.219Z] [CORE] 📉 No gainers found this cycle.
+[2025-06-03T09:15:49.219Z] [CORE] ⏱ Sleeping for 60 seconds...
+[2025-06-03T09:16:01.744Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T09:16:01.745Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:25:26.240Z] [CORE] 🔁 Starting new loop cycle...
+[2025-06-03T12:26:01.479Z] [CORE] ❌ Loop error: Timed out after 30000 ms while waiting for the WS endpoint URL to appear in stdout!
+[2025-06-03T12:39:24.904Z] [SCRAPER] ✅ Loaded Pump.fun Advanced page
+[2025-06-03T12:40:26.133Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:40:26.133Z] [SCRAPER] 🆕 Tracking new token: PFSAM | MC: $2400 | Vol: $2400
+[2025-06-03T12:40:26.503Z] [SCRAPER] 🆕 Tracking new token: rawdog | MC: $480 | Vol: $480
+[2025-06-03T12:40:29.860Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:40:26.505Z] [SCRAPER] 🆕 Tracking new token: Andromeda | MC: $571 | Vol: $571
+[2025-06-03T12:41:24.959Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:41:24.960Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:42:25.015Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:42:25.015Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:43:24.968Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:43:24.969Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:44:25.012Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:44:25.013Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:45:24.996Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:45:24.996Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:46:25.113Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:46:25.113Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:47:25.097Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:47:25.098Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:48:25.508Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:48:25.508Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:49:28.667Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:49:28.668Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:50:29.984Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:50:29.984Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:51:25.099Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:51:25.099Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:52:25.150Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:52:25.151Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:53:25.187Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:53:25.187Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:54:25.205Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:54:25.205Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:55:25.131Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:55:25.131Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:56:25.154Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:56:25.154Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:57:25.143Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:57:25.143Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:58:25.135Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:58:25.136Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T12:59:25.133Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T12:59:25.134Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:00:25.253Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T13:00:25.263Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:01:25.228Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T13:01:25.229Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:02:25.585Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T13:02:25.585Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:03:49.274Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T13:03:49.274Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:04:25.433Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T13:04:25.433Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:05:25.659Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T13:05:25.659Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:06:25.891Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T13:06:25.892Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:07:25.440Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T13:07:25.440Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:08:25.405Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T13:08:25.405Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:09:25.434Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T13:09:25.435Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:10:25.501Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:10:25.501Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T13:11:25.550Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T13:11:25.551Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:12:26.154Z] [SCRAPER] 🧪 Scraped 21 tokens
+[2025-06-03T13:12:26.155Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:13:25.674Z] [SCRAPER] 🧪 Scraped 21 tokens
+[2025-06-03T13:13:25.674Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:14:25.503Z] [SCRAPER] 🧪 Scraped 21 tokens
+[2025-06-03T13:14:25.503Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:15:26.503Z] [SCRAPER] 🧪 Scraped 21 tokens
+[2025-06-03T13:15:26.504Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:16:28.658Z] [SCRAPER] 🧪 Scraped 21 tokens
+[2025-06-03T13:16:28.660Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:17:25.694Z] [SCRAPER] 🧪 Scraped 21 tokens
+[2025-06-03T13:17:25.695Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:18:25.658Z] [SCRAPER] 🧪 Scraped 21 tokens
+[2025-06-03T13:18:25.659Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T13:19:26.400Z] [SCRAPER] 🧪 Scraped 21 tokens
+[2025-06-03T13:19:26.400Z] [SCRAPER] ⛔ Reached max tracked token limit (3). Skipping further additions.
+[2025-06-03T14:22:29.283Z] [CORE] 🚀 Starting scraper loop...
+[2025-06-03T14:22:29.285Z] [CORE] 🔁 Starting new scraping cycle...
+[2025-06-03T14:22:29.286Z] [SCRAPER] 🚀 Scraper loop started
+[2025-06-03T14:23:01.600Z] [SCRAPER] ✅ Loaded Pump.fun Advanced page
+[2025-06-03T14:23:01.600Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:23:01.682Z] [SCRAPER] 🧪 Scraped 0 tokens
+[2025-06-03T14:23:01.682Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:24:01.698Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:24:01.728Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:24:01.729Z] [SCRAPER] 🆕 Tracking new token: DOCSALT | MC: $1700 | Vol: $1700
+[2025-06-03T14:24:01.729Z] [SCRAPER] ❌ Error in scraper loop: getPrice is not defined
+[2025-06-03T14:24:31.742Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:24:31.764Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:24:31.764Z] [SCRAPER] 🆕 Tracking new token: cAT | MC: $339 | Vol: $339
+[2025-06-03T14:24:31.765Z] [SCRAPER] ❌ Error in scraper loop: getPrice is not defined
+[2025-06-03T14:25:01.774Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:25:01.825Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:25:01.825Z] [SCRAPER] 🆕 Tracking new token: GCT | MC: $0 | Vol: $0
+[2025-06-03T14:25:01.825Z] [SCRAPER] ❌ Error in scraper loop: getPrice is not defined
+[2025-06-03T14:25:31.829Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:25:31.947Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:25:31.948Z] [SCRAPER] 🆕 Tracking new token: ED | MC: $250 | Vol: $250
+[2025-06-03T14:25:31.948Z] [SCRAPER] ❌ Error in scraper loop: getPrice is not defined
+[2025-06-03T14:26:01.954Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:26:02.289Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:26:02.291Z] [SCRAPER] ❌ Error in scraper loop: getPrice is not defined
+[2025-06-03T14:26:02.290Z] [SCRAPER] 🆕 Tracking new token: kev | MC: $2700 | Vol: $2700
+[2025-06-03T14:26:32.311Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:26:32.324Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:26:32.324Z] [SCRAPER] 🆕 Tracking new token: Houdini | MC: $2200 | Vol: $2200
+[2025-06-03T14:26:32.324Z] [SCRAPER] ❌ Error in scraper loop: getPrice is not defined
+[2025-06-03T14:27:02.335Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:27:02.405Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:27:02.405Z] [SCRAPER] 🆕 Tracking new token: buyden | MC: $570 | Vol: $570
+[2025-06-03T14:27:02.406Z] [SCRAPER] ❌ Error in scraper loop: getPrice is not defined
+[2025-06-03T14:30:48.311Z] [CORE] 🚀 Starting scraper loop...
+[2025-06-03T14:30:48.313Z] [CORE] 🔁 Starting new scraping cycle...
+[2025-06-03T14:30:48.314Z] [SCRAPER] 🚀 Scraper loop started
+[2025-06-03T14:31:32.027Z] [SCRAPER] ✅ Loaded Pump.fun Advanced page
+[2025-06-03T14:31:32.027Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:31:36.410Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:31:36.410Z] [SCRAPER] 🧪 Scraped 0 tokens
+[2025-06-03T14:32:36.433Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:32:36.542Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:32:36.543Z] [SCRAPER] 🆕 Tracking new token: Xsexual | MC: $532 | Vol: $532
+[2025-06-03T14:32:36.621Z] [SCRAPER] 🆕 Tracking new token: USDT | MC: $434 | Vol: $434
+[2025-06-03T14:32:36.623Z] [SCRAPER] 🆕 Tracking new token: THE LINZ | MC: $1300 | Vol: $1300
+[2025-06-03T14:32:36.624Z] [SCRAPER] 🆕 Tracking new token: X/X | MC: $2900 | Vol: $2900
+[2025-06-03T14:32:36.629Z] [SCRAPER] 🆕 Tracking new token: Ghibli | MC: $12800 | Vol: $12800
+[2025-06-03T14:32:36.635Z] [SCRAPER] 🆕 Tracking new token: Rock | MC: $12600 | Vol: $12600
+[2025-06-03T14:32:36.638Z] [SCRAPER] 🆕 Tracking new token: Mochi | MC: $10300 | Vol: $10300
+[2025-06-03T14:32:36.639Z] [SCRAPER] 🆕 Tracking new token: CO | MC: $13400 | Vol: $13400
+[2025-06-03T14:32:36.641Z] [SCRAPER] 🆕 Tracking new token: USNDC | MC: $169700 | Vol: $169700
+[2025-06-03T14:32:36.644Z] [SCRAPER] 🆕 Tracking new token: HOOD | MC: $40500 | Vol: $40500
+[2025-06-03T14:32:36.645Z] [SCRAPER] 🆕 Tracking new token: path | MC: $186300 | Vol: $186300
+[2025-06-03T14:32:36.648Z] [SCRAPER] 🆕 Tracking new token: DOGE Cycle | MC: $366700 | Vol: $366700
+[2025-06-03T14:32:36.650Z] [SCRAPER] 🆕 Tracking new token: SWEATER | MC: $67900 | Vol: $67900
+[2025-06-03T14:32:36.651Z] [SCRAPER] 🆕 Tracking new token: GWH | MC: $866 | Vol: $866
+[2025-06-03T14:32:36.653Z] [SCRAPER] 🆕 Tracking new token: PHCT | MC: $1500 | Vol: $1500
+[2025-06-03T14:32:36.654Z] [SCRAPER] 🆕 Tracking new token: LGBT | MC: $3300 | Vol: $3300
+[2025-06-03T14:32:36.655Z] [SCRAPER] 🆕 Tracking new token: Hopsalot | MC: $72200 | Vol: $72200
+[2025-06-03T14:32:36.627Z] [SCRAPER] 🆕 Tracking new token: moo-ner | MC: $2500 | Vol: $2500
+[2025-06-03T14:32:36.632Z] [SCRAPER] 🆕 Tracking new token: TRUMP | MC: $12400 | Vol: $12400
+[2025-06-03T14:32:36.661Z] [SCRAPER] 🆕 Tracking new token: turt | MC: $3900 | Vol: $3900
+[2025-06-03T14:32:36.692Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:33:36.700Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:33:36.719Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:33:36.720Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:34:36.720Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:34:36.751Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:34:36.751Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:35:36.754Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:35:36.852Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:35:36.853Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:36:36.868Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:36:36.916Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:36:36.917Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:37:36.917Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:37:36.957Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:37:36.957Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:38:36.966Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:38:37.021Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:38:37.021Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:39:37.022Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:39:37.055Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:39:37.054Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:40:37.060Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:40:37.122Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:40:37.122Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:41:37.129Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:41:37.608Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:41:37.608Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:42:37.734Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:42:38.273Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:42:38.274Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:43:38.330Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:43:38.675Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:43:38.676Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:44:38.704Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:44:38.758Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:44:38.759Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:45:41.861Z] [CORE] 🚀 Starting scraper loop...
+[2025-06-03T14:45:41.864Z] [CORE] 🔁 Starting new scraping cycle...
+[2025-06-03T14:45:41.865Z] [SCRAPER] 🚀 Scraper loop started
+[2025-06-03T14:46:38.912Z] [SCRAPER] ✅ Loaded Pump.fun Advanced page
+[2025-06-03T14:46:38.913Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:46:40.124Z] [SCRAPER] 🧪 Scraped 0 tokens
+[2025-06-03T14:46:40.124Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:47:40.139Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:47:40.427Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:47:40.427Z] [SCRAPER] 🆕 Tracking new token: MUSK | MC: $1700 | Vol: $1700
+[2025-06-03T14:47:40.429Z] [SCRAPER] 🆕 Tracking new token: KITSN | MC: $231 | Vol: $231
+[2025-06-03T14:47:40.638Z] [SCRAPER] 🆕 Tracking new token: crypto | MC: $663 | Vol: $663
+[2025-06-03T14:47:40.651Z] [SCRAPER] 🆕 Tracking new token: RDM | MC: $673 | Vol: $673
+[2025-06-03T14:47:40.656Z] [SCRAPER] 🆕 Tracking new token: sadcat | MC: $2100 | Vol: $2100
+[2025-06-03T14:47:40.664Z] [SCRAPER] 🆕 Tracking new token: TPG | MC: $104300 | Vol: $104300
+[2025-06-03T14:47:40.666Z] [SCRAPER] 🆕 Tracking new token: Satoeshi | MC: $285000 | Vol: $285000
+[2025-06-03T14:47:40.669Z] [SCRAPER] 🆕 Tracking new token: EggDay | MC: $700700 | Vol: $700700
+[2025-06-03T14:47:40.671Z] [SCRAPER] 🆕 Tracking new token: PREGOWIFE | MC: $146300 | Vol: $146300
+[2025-06-03T14:47:40.673Z] [SCRAPER] 🆕 Tracking new token: PODGE | MC: $8300 | Vol: $8300
+[2025-06-03T14:47:40.674Z] [SCRAPER] 🆕 Tracking new token: PERRY | MC: $35700 | Vol: $35700
+[2025-06-03T14:47:40.676Z] [SCRAPER] 🆕 Tracking new token: Bon | MC: $41100 | Vol: $41100
+[2025-06-03T14:47:40.677Z] [SCRAPER] 🆕 Tracking new token: Shu | MC: $3800 | Vol: $3800
+[2025-06-03T14:47:40.680Z] [SCRAPER] 🆕 Tracking new token: shytoshi | MC: $12200 | Vol: $12200
+[2025-06-03T14:47:40.681Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:48:40.686Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:48:40.742Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:48:40.742Z] [SCRAPER] 🆕 Tracking new token: Wynner | MC: $393 | Vol: $393
+[2025-06-03T14:48:40.774Z] [SCRAPER] 🆕 Tracking new token: Rocket | MC: $1000 | Vol: $1000
+[2025-06-03T14:48:40.775Z] [SCRAPER] 🆕 Tracking new token: fuck | MC: $121 | Vol: $121
+[2025-06-03T14:48:40.777Z] [SCRAPER] 🆕 Tracking new token: LUCK | MC: $1500 | Vol: $1500
+[2025-06-03T14:48:40.778Z] [SCRAPER] 🆕 Tracking new token: PFSAM | MC: $1800 | Vol: $1800
+[2025-06-03T14:48:40.779Z] [SCRAPER] 🆕 Tracking new token: ZENAI | MC: $70700 | Vol: $70700
+[2025-06-03T14:48:40.795Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:49:40.810Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:49:40.831Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:49:40.831Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:50:40.843Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:50:41.059Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:50:41.060Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:51:41.074Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:51:41.341Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:51:41.342Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:52:41.400Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:52:41.678Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:52:41.678Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:53:41.683Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:53:41.709Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:53:41.710Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...
+[2025-06-03T14:54:41.711Z] [SCRAPER] 🔄 Beginning scrape cycle...
+[2025-06-03T14:54:41.798Z] [SCRAPER] 🧪 Scraped 20 tokens
+[2025-06-03T14:54:41.798Z] [SCRAPER] ✅ Scrape complete. Sleeping for 60 seconds...

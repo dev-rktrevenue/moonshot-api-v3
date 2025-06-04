@@ -1,0 +1,43 @@
+<%- include('partials/header') %>
+
+<div class="max-w-5xl mx-auto p-6">
+  <h1 class="text-2xl font-bold mb-4">📋 Tracked Tokens (Watchlist)</h1>
+
+  <% if (tokens.length === 0) { %>
+    <p class="text-gray-500">No tokens are being tracked yet.</p>
+  <% } else { %>
+    <table class="w-full text-sm border shadow">
+      <thead class="bg-gray-100 text-left">
+        <tr>
+          <th class="p-2">📅 Created</th>
+          <th class="p-2">🕒 Age</th>
+          <th class="p-2">🚀 Name</th>
+          <th class="p-2">💰 Market Cap</th>
+          <th class="p-2">📊 Volume</th>
+          <th class="p-2">👥 Holders</th>
+          <th class="p-2">🔗 Link</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% tokens.forEach(token => { %>
+          <tr class="border-t">
+            <td class="p-2 text-xs text-gray-500"><%= new Date(token.createdAt).toLocaleString() %></td>
+            <%
+              const ageMinutes = Math.floor((Date.now() - new Date(token.createdAt)) / 60000);
+            %>
+            <td class="p-2"><%= ageMinutes %> min</td>
+            <td class="p-2 font-medium"><%= token.name %></td>
+            <td class="p-2">$<%= token.marketCap.toLocaleString() %></td>
+            <td class="p-2">$<%= token.volume.toLocaleString() %></td>
+            <td class="p-2"><%= token.holders %></td>
+            <td class="p-2">
+              <a href="https://pump.fun/coin/<%= token.address %>" target="_blank" class="text-blue-600 underline text-xs">View</a>
+            </td>
+          </tr>
+        <% }); %>
+      </tbody>
+    </table>
+  <% } %>
+</div>
+
+<%- include('partials/footer') %>
