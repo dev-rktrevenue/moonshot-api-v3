@@ -91,6 +91,11 @@ async function startScraping() {
         if (!watchlist[token.mint]) {
           logEvent('SCRAPER', `🆕 Tracking new token: ${token.name} | MC: $${token.marketCap} | Vol: $${token.volume}`);
           const mintKey = token.mint.replace('-featured', '');
+
+          const now = new Date();
+          const ageSeconds = parseFloat(token.age?.replace('s', '') || '0');
+          const createdAt = new Date(now.getTime() - ageSeconds * 1000);
+
           watchlist[mintKey] = {
             name: token.name,
             address: mintKey,
@@ -98,8 +103,8 @@ async function startScraping() {
             marketCap: token.marketCap,
             volume: token.volume,
             holders: token.holders,
-            ageText: token.age,
-            createdAt: new Date().toISOString(),
+            ageText: `${ageSeconds}s`, // optional, just for display
+            createdAt: createdAt.toISOString(),
             initialPrice: token.marketCap / 1_000_000_000,
             entryTime: new Date().toISOString(),
             history: []
